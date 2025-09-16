@@ -142,17 +142,17 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “I love my trash can. It was small but it “gets the job done! Can walk by it and the lid may open depending on how close you are! The quality is very nice and sturdy the motion sensor you can wave your hand over it and it opens. The trash can is a must have!”               | Product is small.  Product has a motion sensor.  Sensor is too sensitive.  |
+| “Works great. Too soon to tell on battery life but so far, so good. Trash bags are a little tricky to put in but gets easier with practice. The air sucking the trash bag open in the can is really neat and works really well - just be careful not to get the trash bag over the opening when installing a new trash bag.” | Product should be able to hold more content.  Installing new trash bags is tricky. |
+| “Lid opens good, motion detection very easy to use you just put batteries in, and it automatically opens the trash bag up once you put it inside, the only thing is that it is a bit small but it’s nice and compact”                |  The products lid works as intended.  Motion sensors are easy to use |
 
 ## NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “We ordered two at the same time. One worked immediately, great. The other does not work. Installed batteries, no light indicating power. Tried another set of batteries, just in case - nothing. While not ideal, I understand that; however, what is very frustrating is that I now have to take the time to find and coordinate to take the non-functioning item I already paid for to a place convenient for Amazon. Amazon drops things off at my house almost daily, literally 5+ times a week, yet they can't pick up something which was broken upon delivery? 50% of the items I purchased functioned and now I have solve to return the one which was broken. Very frustrating.”               | The product shouldn’t be too small.  The product does not receive power. |
+| “I have two of these and I like the first one I bought very much. The second one goes in a bathroom that is very seldom used. I know it has been over the time for a return, but this thing will not raise the lid and has a very loud noise trying to do so. It has not been used more than 5 0r 6 times. I am very disappointed in the product and that it takes longer than the 31 days to break when not used. The price of the product is not worth the aggravation. I intend on getting another one but believe me I will open it several times a day to see if it is worth it. I am very disappointed in Amazon selling such a worthless product.” | The product is good enough to  buy a second.  The products hinge/servomotor does not work properly.  The products durability was way less than whats anticipated. |
+| “Pure junk! The trash can did not even make it one month before the lid stop functioning. The plastic gears are very flimsy and all they do is click and make noise and never open. To make matters worse, The return window was not even one month so I'm stuck with this trash can. I guess I'll throw it in the real trash.”                |  The product is not worth the price.  Flimsy build and plastic pieces.  Should not make too much noise.  The product doesn’t open. |
 
 6.  ["Motion Sensor Automatic Trash Can"](https://www.walmart.com/ip/Nine-Stars-80-Liter-21-Gal-Sensor-Can/759822278?wl13=1746&selected%20SellerId=0&wmlspartner=wlpa)
 
