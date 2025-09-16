@@ -90,9 +90,14 @@ Good in pairs.
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “Complete rip off, do not buy. 1st, I've never understood why vendors will sometimes take a small box and put it inside a box 3x its size without padding to ship an item. This is far worse than just shipping the original box on its own. The item is going to bang around inside that larger box and the shippers have no idea the thing that matters is inside the larger box. So naturally it came and the interior box that was taped up 1000x to hold it together for shipping was super damaged. This is the mark of a company that has no idea what its doing. Secondly, I have never, in trying 5 times, had a bag seal itself up after pressing the button. It opens and the bag is 30% sealed and that seal breaks as soon as you look at it. Thirdly, the opening to this trash bin is too narrow so its often not very helpful when you want to dispose of trash. Fourthly, the sensor used to open the top lid is often on strike. It simply refuses to acknowledge my presence. I need to perform some type of ritualistic dance to get the thing to open up .”               | The product should be able to ship without damage.  The product should be able to perform its functions reliably.  The product should be sized properly for its function.  The sensors for the product should function reliably. |
+| “I had high hopes for the Airdeer Automatic Trash Can, but unfortunately, it has been a huge disappointment. Despite its promising features, this 4-gallon self-sealing and self-changing smart trash can has not lived up to my expectations.” | The product should promptly respond to the user.  
+The product should have its mechanisms work reliably. |
+| “Firstly, the motion sensor is extremely finicky. Sometimes it responds, but more often than not, I find myself waving my hand multiple times just to get it to open. This defeats the purpose of a touchless trash can and has become quite frustrating.
+”                |  The product should not have flimsy components |
+| “The self-sealing and self-changing mechanism is another major issue. It frequently jams and fails to seal properly, leaving me with a mess to clean up. The trash bags are also quite flimsy and tear easily, which is not what I expected from a product designed for convenience.”                |  The product has multiple design flaws that make it not work properly. |
+| “Additionally, the lid doesn't always close securely, leading to unpleasant odors escaping into the kitchen. For a trash can with a lid, this is a fundamental flaw.”                |  The product should have easily replaceable and cheap internals, if they need to be replaced at all |
+| “The refill rings are supposed to make things easier, but they are overpriced and don't last nearly as long as advertised. I find myself constantly needing to replace them, adding to the overall cost and hassle.”                |  The product's complements are not worth their price |
 
 
 //Base
