@@ -70,6 +70,48 @@ Good in pairs.
 
 # These is the base for the other 3 products
 
+3. ["Self sealing trash can"](https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+![image caption](https://m.media-amazon.com/images/I/51C9GPk0i+L._AC_SX466_.jpg)
+
+* Price: $149.99
+* Vendor: Amazon
+* Description: Automatic Trash Can, 4 Gallon Self Sealing and Self-Changing Smart Trash Can, Motion Sensor, Touchless Garbage can with lid for Kitchen Bathroom Bedroom, 6 Refill Rings(A1, Black Line)
+
+## POSITIVE COMMENTS
+
+| **Voice of the Customer**        |**Restated Customer Need** |
+| ---------------------- | -----------------------|
+| “As a gadget junkie, I couldn't resist trying out this trash can—even though I didn't necessarily need it. Its slim and sleek design fits perfectly next to my kitchen setup without being an eyesore. What really sets it apart are the high-tech features: it seals itself with heat, lifts and lowers automatically, and even replaces the bag—super cool! My only minor complaint is that I wish the opening were a bit wider. The Motion sensor works accordingly and it seems to be sturdy. I purchased this item on sale so the value for me was okay.”               | The product should be sleek.  The product should automatically do as many tasks as possible.  The product’s opening should be wide.  The product should be priced as low as possible. |
+| “I really love this garbage can. Once I figured out what “full” looks like for the automatic sealing mechanism, it’s been everything I hoped for. A helpful tip: if the bag doesn’t cut cleanly after sealing, it’s probably slightly overfilled—just press down the top a bit manually, and it should work perfectly.
+
+One of the best features is the rechargeable battery. I honestly forget it even needs charging because it lasts for months—I think it’s been at least 3 months since the last charge.
+
+The lights inside the can are a cute touch, though they’re more for novelty than practical use. I did knock off one star because the motion sensor isn’t quite sensitive enough. I usually have to wave my hand right up close—or even touch it—to get the lid to open.
+
+Overall, it’s a fantastic product with smart features and a sleek design. Just wish the motion sensor worked a little better!
+” | The product should have a long battery life.  The product should allow the user to correct basic mistakes.  The product should provide illumination.  The product’s sensors should be sensitive enough to properly detect what they are looking for. |
+| “Had this trash can for well over a year now. So much better than Simple Human. Love that out has an open lid mode and bags the trash and refills the bag. It talks to me like a robot. Super awesome. Also freaks out the cat, which is always amusing. The sensor also works consistently, unlike our SH can in the kitchen. Also like that is rechargeable and I don't have to recharge it often; I recharge it a few times a year. This trash can is just cool - I LOVE IT! ❤️ Smart people designed it.”                |  The product’s sensors should work consistently.  The product should be power efficient.  The product should last for as long as possible. | 
+
+## NEGATIVE COMMENTS
+
+| **Voice of the Customer**        |**Restated Customer Need** |
+| ---------------------- | -----------------------|
+| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
+| “mmmmmmmmm1” | mmmmmmmmmm 2 |
+| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+
+
+//Base
+
+4. ["title"](url)
+
+![image caption](url)
+
+* Price: $
+* Vendor: 
+* Description: 
+
 ## POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
