@@ -136,7 +136,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 
 * Price: $30.98
 * Vendor: Amazon
-* Description: Automatic Trash Bag Adsorption] This bathroom trash can automatic touchless features an innovative automatic trash bag adsorption design. It makes bagging time - saving and labor - saving, ensuring the trash bag fits neatly and smoothly against the bucket wall. With the same size, the capacity is doubled, reducing the trouble of frequent garbage bag replacement and bringing more convenience to your life.
+* Description: Automatic Trash Bag Adsorption This bathroom trash can automatic touchless features an innovative automatic trash bag adsorption design. It makes bagging time - saving and labor - saving, ensuring the trash bag fits neatly and smoothly against the bucket wall. With the same size, the capacity is doubled, reducing the trouble of frequent garbage bag replacement and bringing more convenience to your life.
 
 ## POSITIVE COMMENTS
 
