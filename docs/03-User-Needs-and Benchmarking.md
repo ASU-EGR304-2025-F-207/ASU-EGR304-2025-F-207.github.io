@@ -7,7 +7,7 @@ tags:
 
 ## Voices of the Customers Benchmarking 
 
-## Search #1
+## Top #6 Searches
 
 Keywords "Autamtic Trash Can/Self Tying Trash Can"
 
