@@ -185,3 +185,109 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Loved the idea and the look of this trash can, however it stop working after 3 months. We changed the batteries and did everything we could and it still won't work. And warranty is only good for 90 days according to Walmart. Very disappointed with this trash can.”               | The product should work reliably for a long time.  The product should be able to be fixed easily. |
 | “I typically wouldnt spend more than $20 on a garage can but I thought I would give it a shot. I wish I didnt. The lid stopped working about the 5th time it opened. the sensor still works but the lid will only open about an inch. I attempted all the troubleshooting directions in the manual and online but nothing works. I attempted to reach out to the company by using the email and number provided. My email was not sent due to "the email you provided does not exist." I still have not heard from the company.” | The product should be as cheap as possible.  The documentation for the product should be thorough.  The product should be tested and have common issues fixed before shipping |
 | “Had this less than three weeks when the battery department started to come loose. Batteries keep slipping down so it won't work. Have to fix batteries. Now the can is malfunctioning it open and closes constantly and it's so annoying. And it runs the batteries down. Struggles”                |  The casings for internals of the product should be sturdy.  The product should not waste power |
+
+## List of 100 total needs statements
+
+1. The product is easy to recharge
+2. The product uses D Batteries
+3. Product is not damaged
+4. Product is sturdy
+5. Product is aesthetically pleasing
+6. Product is automatic
+7. Product does not take up much space
+8. Product deodorizes itself
+9. Product should have a long lifespan, up to 10 years.
+10. Product should minimize manual steps
+11. Product should allow easy replacement of contents
+12. Product should last longer than a few months
+13. Product should not stain easily
+14. The product’s sensors should only go off when desired
+15. Product should have intuitive design.
+16. The product should be clear in its sizing
+17. The product should be easy to assemble for the customer
+18. The product should not be too small to be used
+19. The product should be able to easily be powered
+20. The product should be battery operated or plug into a power source.
+21. The product should be affordable
+22. The product is too small.
+23. The product has low capacity.
+24. Good for bathroom use.
+25. Good in pairs.
+26. Good desk product.
+27. The top doesn’t fit well together.
+28. The trash can is flimsy.
+29. Should not warp.
+30. Small, flimsy and bendable
+31. The product should be sleek
+32. The product should automatically do as many tasks as possible
+33. The product’s opening should be wide
+34. The product should be priced as low as possible
+35. The product should have a long battery life
+36. The product should allow the user to correct basic mistakes
+37. The product should provide illumination
+38. The product’s sensors should be sensitive enough to properly detect what they are looking for
+39. The product’s sensors should work consistently
+40. The product should be power efficient
+41. The product should last for as long as possible
+42. The product should be able to ship without damage
+43. The product should be able to perform its functions reliably.
+44. The product should be sized properly for its function
+45. The sensors for the product should function reliably
+46. The product should promptly respond to the user
+47. The product should have its mechanisms work reliably
+48. The product should not have flimsy components
+49. The product should have easily replaceable and cheap internals, if they need to be replaced at all.
+50. This product's function is complete.
+51. Both battery and wired power.
+52. Could be taller.
+53. Good for older customers.
+54. Not a complete necessity.
+55. Function effectively.
+56. Without air trapping.
+57. Pricey
+58. Is loud somewhere in the process.
+59. Not charging.
+60. Not sealing or opening all the way.
+61. Not an obvious fix.
+62. Not working but halfway functional.
+63. Product is small
+64. Product has a motion sensor
+65. Sensor is too sensitive
+66. Product should be able to hold more content
+67. Installing new trash bags is tricky.
+68. The products lid works as intended
+69. Motion sensors are easy to use and have no problems
+70. The product is small
+71. The product does not receive power
+72. The product is good enough to buy a second
+73. The products hinge/servomotor does not work properly
+74. The products durability was way less than whats anticipated
+75. The product is not worth the price
+76. Flimsy build and plastic pieces
+77. Noise
+78. The product doesn’t open.
+79. Lid mechanisms should be smooth
+80. Odor leaks when lid is open
+81. Bags should be easily removed and replaced
+82. The product should appear modern
+83. The product should have a manual backup
+84. The product should use convenient and cheap methods of powering itself
+85. The product should reliably move through its full range of motion
+86. The product should be able to easily be repaired or have parts replaced
+87. The product should be easy to troubleshoot
+88. The product should not require strong technical knowledge to use
+89. The product should be made at a comfortable height
+90. The product should be able to be hands-free
+91. The product should be safe from pets
+92. The product should be safe for animals or children that are around it
+93. The product should have a way to bypass a malfunctioning sensor
+94. The product should be able to handle full or overfull capacity
+95. The product should work reliably for a long time
+96. The product should be able to be conveniently repowered
+97. The product should be able to be fixed easily
+98. The product should be as cheap as possible.
+99. The product should be tested and have common issues fixed before shipping
+100. The documentation for the product should be thorough
+
+["Ranking of needs statement"](https://docs.google.com/presentation/d/1CjbvaIT1THqjxg6SFhkefpbEM9IlYRBqDsOFP4Vrju0/edit?usp=sharing)
+
