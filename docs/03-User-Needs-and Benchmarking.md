@@ -7,14 +7,14 @@ tags:
 
 ## Voices of the Customers Benchmarking 
 
-Search #1
+## Search #1
 
 Keywords "Autamtic Trash can"
 
 Search Results Link : ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-r/)
 
 
-Selected Products
+## Selected Products
 
 1. ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-rr)
 
@@ -24,4 +24,14 @@ Selected Products
 * Vendor: Amazon
 * Description: 13 Gal. / 49 Liter Stainless Steel Household Metal Trash Can with Sensor Lid and Odor Filter
 
-POSITIVE COMMENTS
+## POSITIVE COMMENTS
+
+## Team Members Datasheet links
+
+| **Voice of the Customer**        |**Restated Customer Need** |
+| ---------------------- | -----------------------|
+| “Absolutely love , love this can. You have to purchase 4 D batteries and or online get an adapter that is made for it.”               | The product is easy to recharge |
+| Hattie Lee                | [https://jhlee59.github.io/](https://jhlee59.github.io/) |
+| Name #3                | link |
+| Name #4                | link |
+
