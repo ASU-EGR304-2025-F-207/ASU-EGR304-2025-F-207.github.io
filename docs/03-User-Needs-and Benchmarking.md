@@ -54,9 +54,11 @@ mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “Cute but VERY small; if you use this for anything but hair strands %26 used floss, you will be emptying it quite often. Fortunately that's about all we put in our bathroom trash, so it works for us.”               | The product is too small,  The product has low capacity |
+| “I bought 2 of them. They are strudy trash cans just smaller than I thought but still useful for the bathroom.” | Good for bathroom use. 
+Good in pairs.
+ |
+| “I thought it would be bigger, cute desk trash can though!.”                |  Good desk product |
 
 ## NEGATIVE COMMENTS
 
