@@ -40,7 +40,6 @@ Search Results Link : ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchl
 | “The can arrived packaged very well. This is very important because you aren't immediately worried about a damaged product. This is a very sturdy and decorative indoor waste can. Easy to clean. I love how the cover opens and closes automatically ( I purchased the adapter) and that it has its own deodorizer. It doesn't take up a lot of space and is more attractive than a plain plastic trash can. Would recommend this product very highly.” | The Product uses D Batteries, Product is not damaged, Product is sturdy, Product is aesthetically pleasing, Product is automatic, Product does not take up much space, Product deodors itself |
 | “This is a terrific product for your kitchen especially or any place that needs a large disposal. We had the previous generation can for about 20 years ( needing to replace the opening top after about 10 years). Quality is very good. Sensor works well and keeps the lid open for about 6 seconds allowing you to dispose most anything without touching any buttons. Nothing to lift or pedal to push to get it open. Bags can be removed easily and new one replaced in a jiffy. Definitely recommend.”                | Product should have a long lifespan, up to 10 years. Product should minimize manual steps, Product should allow easy replacement of contents  |
 
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 2.  ["Self tying trash can"](https://www.walmart.com/ip/Fdelink-Kitchen-Cleaning-Supplies-Self-Sealing-and-Self-Changing-4-22-Gallon-Trash-Can-Automatic-Open-Lid-and-Mo-Trash-Can-White/5833950909 )
 
@@ -68,7 +67,6 @@ Good in pairs.
 | “pieces are warped and do not snap together properly. size was as expected, but pretty much not usable for intended purpose.” | Warping.  The trash can is flimsy. |
 | “Smaller in size than I expected. Also the material feels very flimsy and bendable.”                |  Small, flimsy and bendable |
 
-# These is the base for the other 3 products
 
 3.  ["Self sealing trash can"](https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
@@ -97,6 +95,7 @@ The product should have its mechanisms work reliably. |
 | “The self-sealing and self-changing mechanism is another major issue. It frequently jams and fails to seal properly, leaving me with a mess to clean up. The trash bags are also quite flimsy and tear easily, which is not what I expected from a product designed for convenience.”                |  The product has multiple design flaws that make it not work properly. |
 | “Additionally, the lid doesn't always close securely, leading to unpleasant odors escaping into the kitchen. For a trash can with a lid, this is a fundamental flaw.”                |  The product should have easily replaceable and cheap internals, if they need to be replaced at all |
 | “The refill rings are supposed to make things easier, but they are overpriced and don't last nearly as long as advertised. I find myself constantly needing to replace them, adding to the overall cost and hassle.”                |  The product's complements are not worth their price |
+
 
 4.  ["Touchless smart trash can self sealing"](https://www.airdeertech.com/products/self-sealing-smart-trash-can-a1)
 
@@ -130,6 +129,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “I LOVE this trash can!! It does just about everything for you! I bought it Jan. 26, 2022. For some reason, I thought it took forever to charge, but it's just not working. Won't fully seal and release a bag and it won't fully open anymore. I don't know if I can use it on the charger all the time or not. It seems like it works when it's on the charger. I feel as though this is a fixable problem, I just don't know how to fix it.” | Not charging.   Not sealing or opening all the way.  Not an obvious fix.|
 | “I like the product, it is very convenient. Keeps odors out. I purchased two and one stopped working. I can still use if i push the button to open and again to close.”                |  Not working but halfway functional |
 
+
 5.  ["Automatic trash can "](https://www.amazon.com/CTIME-Automatic-Bathroom-Soft-Close-Expanding/dp/B0D3DRFYK4?crid=36LKC17VSCWRL&dib=eyJ2IjoiMSJ9.Opj3x0A6EJV4stjMAt1vvAyLHHUjZgk60-mntN0arI2CuTVQunzmKd3FbTz75H8JXZ5X9OMvm_Xl2Ei66PRfroTuvuD8z6qOvC9HTMbCtvhK_m8ma5KxyGt8sRK1_WsWB2F3bBweAADnZxwArtnJh6WAS4QpFBDdQF7oSNKFizxv1rCL9q746md5s4hQV6WeMxwXM4-p4CTnpwV5s-HOOmPV2q_8ROSA3zCi57kiO2lYuGiid21a1Gl1mFRTp0OcQDBBDFdy61Y_q-hA9L0QO7Bb7sn759jQ6mmOcNd2zLY.amKIErGRqtOBjgOlCJOqhStcSNc4divbNqT39GYM2LM&dib_tag=se&keywords=self+tying+trash+can&qid=1757990301&sprefix=self+tying+trs%2Caps%2C169&sr=8-17#averageCustomerReviewsAnchor)
 
 ![image caption](https://m.media-amazon.com/images/I/51JM8mlSs3L._SY445_.jpg)
@@ -153,6 +153,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “We ordered two at the same time. One worked immediately, great. The other does not work. Installed batteries, no light indicating power. Tried another set of batteries, just in case - nothing. While not ideal, I understand that; however, what is very frustrating is that I now have to take the time to find and coordinate to take the non-functioning item I already paid for to a place convenient for Amazon. Amazon drops things off at my house almost daily, literally 5+ times a week, yet they can't pick up something which was broken upon delivery? 50% of the items I purchased functioned and now I have solve to return the one which was broken. Very frustrating.”               | The product shouldn’t be too small.  The product does not receive power. |
 | “I have two of these and I like the first one I bought very much. The second one goes in a bathroom that is very seldom used. I know it has been over the time for a return, but this thing will not raise the lid and has a very loud noise trying to do so. It has not been used more than 5 0r 6 times. I am very disappointed in the product and that it takes longer than the 31 days to break when not used. The price of the product is not worth the aggravation. I intend on getting another one but believe me I will open it several times a day to see if it is worth it. I am very disappointed in Amazon selling such a worthless product.” | The product is good enough to  buy a second.  The products hinge/servomotor does not work properly.  The products durability was way less than whats anticipated. |
 | “Pure junk! The trash can did not even make it one month before the lid stop functioning. The plastic gears are very flimsy and all they do is click and make noise and never open. To make matters worse, The return window was not even one month so I'm stuck with this trash can. I guess I'll throw it in the real trash.”                |  The product is not worth the price.  Flimsy build and plastic pieces.  Should not make too much noise.  The product doesn’t open. |
+
 
 6.  ["Motion Sensor Automatic Trash Can"](https://www.walmart.com/ip/Nine-Stars-80-Liter-21-Gal-Sensor-Can/759822278?wl13=1746&selected%20SellerId=0&wmlspartner=wlpa)
 
