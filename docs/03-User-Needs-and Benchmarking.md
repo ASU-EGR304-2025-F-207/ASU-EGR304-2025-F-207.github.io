@@ -9,9 +9,15 @@ tags:
 
 ## Search #1
 
-Keywords "Autamtic Trash can"
+Keywords "Autamtic Trash Can/Self Tying Trash Can"
 
-Search Results Link : ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-r/)
+Search Results Links :
+1. ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-r/)
+2. ["Self tying trash can"](https://www.walmart.com/ip/Fdelink-Kitchen-Cleaning-Supplies-Self-Sealing-and-Self-Changing-4-22-Gallon-Trash-Can-Automatic-Open-Lid-and-Mo-Trash-Can-White/5833950909 )
+3. ["Self sealing trash can"](https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+4. ["Touchless smart trash can self sealing"](https://www.airdeertech.com/products/self-sealing-smart-trash-can-a1)
+5. ["Automatic trash can "](https://www.amazon.com/CTIME-Automatic-Bathroom-Soft-Close-Expanding/dp/B0D3DRFYK4?crid=36LKC17VSCWRL&dib=eyJ2IjoiMSJ9.Opj3x0A6EJV4stjMAt1vvAyLHHUjZgk60-mntN0arI2CuTVQunzmKd3FbTz75H8JXZ5X9OMvm_Xl2Ei66PRfroTuvuD8z6qOvC9HTMbCtvhK_m8ma5KxyGt8sRK1_WsWB2F3bBweAADnZxwArtnJh6WAS4QpFBDdQF7oSNKFizxv1rCL9q746md5s4hQV6WeMxwXM4-p4CTnpwV5s-HOOmPV2q_8ROSA3zCi57kiO2lYuGiid21a1Gl1mFRTp0OcQDBBDFdy61Y_q-hA9L0QO7Bb7sn759jQ6mmOcNd2zLY.amKIErGRqtOBjgOlCJOqhStcSNc4divbNqT39GYM2LM&dib_tag=se&keywords=self+tying+trash+can&qid=1757990301&sprefix=self+tying+trs%2Caps%2C169&sr=8-17#averageCustomerReviewsAnchor)
+6. ["Motion Sensor Automatic Trash Can"](https://www.walmart.com/ip/Nine-Stars-80-Liter-21-Gal-Sensor-Can/759822278?wl13=1746&selected%20SellerId=0&wmlspartner=wlpa)
 
 
 ## Selected Products
