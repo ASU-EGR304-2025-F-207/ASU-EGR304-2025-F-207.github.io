@@ -31,14 +31,7 @@ Search Results Link : ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchl
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
 | “Absolutely love , love this can. You have to purchase 4 D batteries and or online get an adapter that is made for it.”               | The product is easy to recharge |
-| “The can arrived packaged very well. This is very important because you aren't immediately worried about a damaged product. This is a very sturdy and decorative indoor waste can. Easy to clean. I love how the cover opens and closes automatically ( I purchased the adapter) and that it has its own deodorizer. It doesn't take up a lot of space and is more attractive than a plain plastic trash can. Would recommend this product very highly.”
-               | 1. The Product uses D Batteries
-               Product is not damaged
-               Product is sturdy
-               Product is aesthetically pleasing
-               Product is automatic
-               Product does not take up much space
-               Product deodors itself |
+| “The can arrived packaged very well. This is very important because you aren't immediately worried about a damaged product. This is a very sturdy and decorative indoor waste can. Easy to clean. I love how the cover opens and closes automatically ( I purchased the adapter) and that it has its own deodorizer. It doesn't take up a lot of space and is more attractive than a plain plastic trash can. Would recommend this product very highly.” | The Product uses D Batteries, Product is not damaged, Product is sturdy, Product is aesthetically pleasing, Product is automatic, Product does not take up much space, Product deodors itself |
 | Name #3                | link |
 | Name #4                | link |
 
