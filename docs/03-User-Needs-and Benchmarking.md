@@ -20,7 +20,7 @@ Search Results Link : ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchl
 
 ![image caption](https://images.thdstatic.com/productImages/7fc567df-0ebd-454c-9887-0e0cd3ba4f6e/svn/itouchless-indoor-trash-cans-itos13b-64_145.jpg)
 
-* Price: 
+* Price: $74.99
 * Vendor: Amazon
 * Description: 13 Gal. / 49 Liter Stainless Steel Household Metal Trash Can with Sensor Lid and Odor Filter
 
