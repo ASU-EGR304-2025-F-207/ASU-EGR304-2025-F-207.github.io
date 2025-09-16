@@ -68,7 +68,7 @@ Good in pairs.
 | “pieces are warped and do not snap together properly. size was as expected, but pretty much not usable for intended purpose.” | Warping.  The trash can is flimsy. |
 | “Smaller in size than I expected. Also the material feels very flimsy and bendable.”                |  Small, flimsy and bendable |
 
-# This is the base for the other 4 products
+# These is the base for the other 3 products
 
 ## POSITIVE COMMENTS
 
