@@ -289,7 +289,6 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 99. The product should be tested and have common issues fixed before shipping
 100. The documentation for the product should be thorough
 
-["Ranking of needs statement"](https://docs.google.com/presentation/d/1CjbvaIT1THqjxg6SFhkefpbEM9IlYRBqDsOFP4Vrju0/edit?usp=sharing)
-
+["Ranking of needs statement"]
 ![304 User needs](https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48)
 ![304 User needs (1)](https://github.com/user-attachments/assets/8d16eb03-6f05-4828-995a-c72e57b834c6)
