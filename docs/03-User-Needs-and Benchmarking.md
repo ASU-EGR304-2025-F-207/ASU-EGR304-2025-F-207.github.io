@@ -117,17 +117,18 @@ Also a new option for buying diaper pails
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “Opens automatically and also seals the bag when full.
+Sure it opens automatically like other trash cans. But it also seals the trash bag and drops a new one in its place after you remove the sealed bag. The bag refills have 20 each, you can get 12 or 24 pack refills on airdeer online shop. Has a power cord but also a built in battery so don't have to always have it plugged in. Works great in my bedroom, when they come out with tall kitchen size I will get a few of those.”               | This product's function is complete.  Both battery and wired power.  Could be taller. |
+| “Love it! I purchased this for my 83 year old mom to use in her bathroom. She loves it!” | Good for older customers. |
+| “I purchased the trashcan for my bathroom. I admit that the purchase is a bit frivolous. Spending that much money on a trash can for the bathroom is a bit crazy...BUT, money aside, I really do love it. I love that it seals up the bag so quickly and well. I love how the bag opens up and fills the bin without the puffs of air that can typically get trapped between the bag and bin. We've had it for a few weeks now and typically have a full can every week. It's still on the same charge and same bag container provided. A bit pricy, but I think it was worth it.”                |  Not a complete necessity.  Function effectively.  Without air trapping.  Pricey |
 
 ## NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
-| “mmmmmmmmmm 1”               | mmmmmmmmmm 2 |
-| “mmmmmmmmm1” | mmmmmmmmmm 2 |
-| “mmmmmmmmmmmm1.”                |  mmmmmmmmmmmmmm2 |
+| “I wish it was a little bit quieter”               | Is loud somewhere in the process. |
+| “I LOVE this trash can!! It does just about everything for you! I bought it Jan. 26, 2022. For some reason, I thought it took forever to charge, but it's just not working. Won't fully seal and release a bag and it won't fully open anymore. I don't know if I can use it on the charger all the time or not. It seems like it works when it's on the charger. I feel as though this is a fixable problem, I just don't know how to fix it.” | Not charging.   Not sealing or opening all the way.  Not an obvious fix.|
+| “I like the product, it is very convenient. Keeps odors out. I purchased two and one stopped working. I can still use if i push the button to open and again to close.”                |  Not working but halfway functional |
 
 5.  ["Automatic trash can "](https://www.amazon.com/CTIME-Automatic-Bathroom-Soft-Close-Expanding/dp/B0D3DRFYK4?crid=36LKC17VSCWRL&dib=eyJ2IjoiMSJ9.Opj3x0A6EJV4stjMAt1vvAyLHHUjZgk60-mntN0arI2CuTVQunzmKd3FbTz75H8JXZ5X9OMvm_Xl2Ei66PRfroTuvuD8z6qOvC9HTMbCtvhK_m8ma5KxyGt8sRK1_WsWB2F3bBweAADnZxwArtnJh6WAS4QpFBDdQF7oSNKFizxv1rCL9q746md5s4hQV6WeMxwXM4-p4CTnpwV5s-HOOmPV2q_8ROSA3zCi57kiO2lYuGiid21a1Gl1mFRTp0OcQDBBDFdy61Y_q-hA9L0QO7Bb7sn759jQ6mmOcNd2zLY.amKIErGRqtOBjgOlCJOqhStcSNc4divbNqT39GYM2LM&dib_tag=se&keywords=self+tying+trash+can&qid=1757990301&sprefix=self+tying+trs%2Caps%2C169&sr=8-17#averageCustomerReviewsAnchor)
 
