@@ -20,10 +20,12 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+**User Story #1: Harriet**
+Harriet is an 83-year-old retired teacher who enjoys staying active through hobbies like origami and simple paper crafts. While she has mild arthritis in both of her hands, she manages her day to day tasks with little difficulty. However, by the end of the week, taking out the trash becomes a challenging task. The action of pulling the drawstrings on a trash bag and tying them does cause her some discomfort in her hands. To ease this struggle, Harriet’s new self seal trash can has no pull, no tie feature that lets her complete this chore with ease. This small improvement allows her to maintain her house with less discomfort.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+**User Story #2: Sam**
+Sam is a busy nursing student who works long shifts at a hospital. His days are packed with responsibilities, and when he's home, he tries his best to keep up with his household chores. One task he often forgets about is taking out the trash. By the time he gets to it, the smell can be unbearable, especially after a long shift. To make things easier, Sam uses a self-sealing trash can. When the bag reaches a certain fullness, it automatically seals itself shut, locking in any odors and preventing any mess from spilling over. This feature means Sam doesn't have to worry about forgetting to take the trash out immediately or dealing with lingering smells. The self sealing trash can gives him one less thing to worry about during his busy, tiring days.
+
 
 ## Aspects
 
