@@ -25,6 +25,9 @@ Add your context and tables
 
 ## Step Four
 
+
+<img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
+
 Add your different product concepts stuff here
 
 ## Step Six (video link)
