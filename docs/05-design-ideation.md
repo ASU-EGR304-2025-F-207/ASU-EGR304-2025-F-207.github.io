@@ -301,64 +301,64 @@ A
     4. Light above foot pedal
     5. Night light mode
 2. The product should be able to be fixed easily(L)
-    6. Easy to find parts
-    7. Manual that describes each part’s function
-    8. Commonly found screws
-    9. Small tools come with product
-    10. Replacement screws
+    1. Easy to find parts
+    2. Manual that describes each part’s function
+    3. Commonly found screws
+    4. Small tools come with product
+    5. Replacement screws
 3. Good for older customers. (E)
-    11. Text-to-speech 
-    12. AI-based text-to-speech
-    13. Easy to read display
-    14. Verbal capacity notifications
-    15. Battery notifications
+    1. Text-to-speech 
+    2. AI-based text-to-speech
+    3. Easy to read display
+    4. Verbal capacity notifications
+    5. Battery notifications
 4. Product is aesthetically pleasing(E)
-    16. White, Black, or Metal
-    17. Sleek coating
-    18. Rounded edges
-    19. Slim form factor
-    20. No protrusions
+    1. White, Black, or Metal
+    2. Sleek coating
+    3. Rounded edges
+    4. Slim form factor
+    5. No protrusions
 5. Should not make too much noise (L)
-    21. Noise dampening 
-    22. Quiet motors
-    23. Lubed joints
-    24. Respective tolerances
-    25. Silent mode feature
+    1. Noise dampening 
+    2. Quiet motors
+    3. Lubed joints
+    4. Respective tolerances
+    5. Silent mode feature
 
 G
 
 
 
 1. The product should be safe from pets(E)
-1. Metal case
-2. No exposed circuitry
-3. No sharp corners
-4. Slippery sides
-5. Solid/heavy base
+	1. Metal case
+	2. No exposed circuitry
+	3. No sharp corners
+	4. Slippery sides
+	5. Solid/heavy base
 2. The product should not require strong technical knowledge to use(L)
-1. Instructions with images
-2. Buttons
-3. Mark every input
-4. No hidden inputs
-5. Diagram with every input and description in instructions
+	1. Instructions with images
+	2. Buttons
+	3. Mark every input
+	4. No hidden inputs
+	5. Diagram with every input and description in instructions
 3. Motion sensors are easy to use(E)
-1. Instructions
-2. Uncovered sensors
-3. Protected sensors
-4. Visually distinctive
-5. Color LEDs to representation action
+	1. Instructions
+	2. Uncovered sensors
+	3. Protected sensors
+	4. Visually distinctive
+	5. Color LEDs to representation action
 4. The product should last for as long as possible(L)
-1. Metal materials
-2. Well protected circuitry
-3. Solid internal structure
-4. Modular 
-5. Repair tools included
+	1. Metal materials
+	2. Well protected circuitry
+	3. Solid internal structure
+	4. Modular 
+	5. Repair tools included
 5. The product should be made at a comfortable height(E)
-1. Modular base 
-2. Adjustable feet
-3. Multiple models with different volumes/heights
-4. Piston to raise the internal can
-5. Storage base to increase height
+	1. Modular base 
+	2. Adjustable feet
+	3. Multiple models with different volumes/heights
+	4. Piston to raise the internal can
+	5. Storage base to increase height
 
 
 
