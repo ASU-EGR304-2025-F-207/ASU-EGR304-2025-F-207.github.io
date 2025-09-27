@@ -266,29 +266,29 @@ R
     4. Keeps odorous components hidden
     5. Cleans itself
 2. Product should allow easy replacement of contents(E)
-    6. Opens automatically
-    7. Automatically packages contents
-    8. Prepares the next bag automatically
-    9. Easy to grab handles
-    10. Incinerate previous contents
+    1. Opens automatically
+    2. Automatically packages contents
+    3. Prepares the next bag automatically
+    4. Easy to grab handles
+    5. Incinerate previous contents
 3. The product’s sensors should only go off when desired(E)
-    11. Very precise sensors
-    12. Multiple sensors looking for similar things
-    13. Different types of sensors
-    14. Time to ensure the signal is intentional
-    15. Operators watching and ensuring sensor is correct
+    1. Very precise sensors
+    2. Multiple sensors looking for similar things
+    3. Different types of sensors
+    4. Time to ensure the signal is intentional
+    5. Operators watching and ensuring sensor is correct
 4. The product should be easy to assemble for the customer(E)
-    16. Prebuilt product
-    17. Product only requires screwing together
-    18. Instruction manual
-    19. Pieces can be slotted together
-    20. Product is only one piece
+    1. Prebuilt product
+    2. Product only requires screwing together
+    3. Instruction manual
+    4. Pieces can be slotted together
+    5. Product is only one piece
 5. The product should be able to easily be powered(E)
-    21. Powered by easily procured batteries
-    22. Able to be plugged into a wall
-    23. Is able to be wirelessly charged
-    24. Solar powered
-    25. Manually powered
+    1. Powered by easily procured batteries
+    2. Able to be plugged into a wall
+    3. Is able to be wirelessly charged
+    4. Solar powered
+    5. Manually powered
 
 A
 
