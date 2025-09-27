@@ -669,30 +669,25 @@ Prepares the next bag automatically
 
 
 
-### Trash Can one 
+### Trash Can One 
 
 
 ### 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
 
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+### Trash Can Two 
 
 ### 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="2360" height="1640" alt="Trashcan2" src="https://github.com/user-attachments/assets/7e5308b6-97a6-4d5b-b9f5-da39a5682934" />
 
+### Trash Can Three 
 
-![alt_text](images/image2.png "image_tooltip")
+###
 
+<img width="2903" height="1640" alt="Trashcan3" src="https://github.com/user-attachments/assets/dd99d09d-7e6f-4766-8504-d7966c34ebd6" />
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
 
 
 
@@ -718,7 +713,7 @@ Once the concept was chosen, market research and market offerings were conducted
 From this concept drawing, a list of 100 areas of opportunity emerged. Since our group consisted of four members, we each chose five areas of opportunity that were relatively different from each other and deconstructed each one into five ways to solve or attack it. This left us with a list of 100 data points. Once step two was completed, we divided into subgroups to cover more in less time. The "subgroup" in charge of step three was Riley and Alessandro. They were in charge of collecting and categorizing the list of 100 data points into six groups. Once the 100 points were analyzed, Riley and Alessandro worked on forming groups or categories to encompass this data. Finally, the list was reduced to six groups, into which the data were divided according to their respective categories without repeating categories. Once this was completed, it was decided to rank each feature on a scale of 1 to 10. This was done by asking a third party, who was unfamiliar with the activity and/or product, and asking them to give a rating from 1 to 10 according to the respective category.
 
 After reviewing the top-ranked ideas and combining them in different ways, they came up with three product ideas. These were used as the basis for part 4. Hattie reviewed the groups initially created for step 3 to gain a better understanding when visually capturing the three product ideas in three different vector drawings. Finally, in step 5, Gael gathered all the information from the Google Docs where the process and results of all the previous steps were compiled and created a duplicate on our group's GitHub.
-<img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
+
 
 Add your different product concepts stuff here
 
