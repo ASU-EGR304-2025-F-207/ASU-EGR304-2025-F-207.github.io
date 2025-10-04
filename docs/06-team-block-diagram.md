@@ -3,4 +3,4 @@ title: Team Block Diagram
 ---
 
 
-![image caption](https://drive.google.com/file/d/1vQadm4_CCZBUhuZIT3TPM3kpQK5wAW8p/view?ts=68e09ac6)
+![image caption](https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/blob/main/Team207_Block_Diagram.drawio.png)
