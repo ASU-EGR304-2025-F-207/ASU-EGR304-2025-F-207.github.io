@@ -225,35 +225,35 @@ The product should not waste power(E)
 
 
 1. The product should be able to be hands-free(E)
-* Voice control to open/close
-* Foot pedal 
-* Smart app 
-* Knee touch button
-* Motion senor 
+	1. Voice control to open/close
+	2. Foot pedal
+	3. Smart app
+ 	4. Knee touch button
+  	5. Motion senor 
 2. The product should be able to handle full or overfull capacity(E)
-* An expandable container 
-* A flattener like a compressor
-* Fill level indicator light or sound
-* More than one container
-* Weight detection
+	1. An expandable container
+ 	2. A flattener like a compressor
+	3. Fill level indicator light or sound
+ 	4. More than one container
+  	5. Weight detection
 3. Flimsy build and plastic pieces
-* Metal components 
-* Reinforced plastic
-* Outer shell attachment 
-* Shock absorbing rubber feet 
-* Metal frame and plates inside
+	1. Metal components
+ 	2. Reinforced plastic
+  	3. Outer shell attachment
+  	4. Shock absorbing rubber feet
+  	5. Metal frame and plates inside
 4. Both battery and wired power
-* Battery backup in case of a power outage
-* Rechargeable batteries included
-* Solar panels 
-* All commonly used ports are installed like USB C
-* A power switcher and indicator when the battery is low
+	1. Battery backup in case of a power outage
+ 	2. Rechargeable batteries included
+   	3. Solar panels
+   	4. All commonly used ports are installed like USB C
+   	5. A power switcher and indicator when the battery is low
 5. The product’s opening should be wide
-* Sliding door instead of a flip lid
-* Smart sensor to expand based on object size
-* Trap door lid
-* Unhinged top like a snake's mouth
-* Elapse top and edges 
+	1. Sliding door instead of a flip lid
+ 	2. Smart sensor to expand based on object size
+ 	3. Trap door lid
+  	4. Unhinged top like a snake's mout
+  	5. Elapse top and edges 
 
 R
 
