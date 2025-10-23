@@ -28,5 +28,5 @@ Professor Nichols<br>
 | ---------------------- | -----------------------|
 | Gael Chavez                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io/) |
 | Hattie Lee                | [https://jhlee59.github.io/](https://jhlee59.github.io/) |
-| Name #3                | link |
+| Riley Franco                | [Riley Franco's datasheet](https://riatron8.github.io/) |
 | Name #4                | link |
