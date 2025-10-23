@@ -8,7 +8,7 @@ tags:
 <font size="8">Project Name<br>
 <font size="5">Team 207<br>
 **Submission: 09, 05, 2025**<br>
-Fall and 2025<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Nichols<br>
