@@ -1,57 +1,71 @@
----
-title: Software Proposal
----
+# Software Proposal: Activity Diagram
 
-## Introduction
+This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic.
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+```mermaid
+flowchart TD
+    A([Start]) --> B[Initialize Program]
+    B --> C{Initialization Complete?}
+    C -->|Yes| D[Run Main Loop]
+    C -->|No| B
+    D --> E[Begin Parallel Sensor Processes]
 
-## Research Question
+    E --- MOTION_TOP
+    E --> F2[Read Weight Sensor]
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+    subgraph MOTION["Motion Sensor and Motor Control"]
+        MOTION_TOP([ ]) --> F1[Read Motion Sensor]
+        style MOTION_TOP fill:none,stroke:none
 
-## Images
+        F1 --> G1{Motion Detected?}
+        G1 -->|Yes| H1[Send Signal to Motor Controller]
+        G1 -->|No| I1[Keep Motor Idle]
+        I1 --> G1 
+        H1 --> J1[Activate Motor - Open Lid]
+        J1 --> K1[Start Timer]
+        K1 --> L1{Timer Expired?}
+        L1 -->|Yes| M1[Reverse Motor - Close Lid]
+        L1 -->|No| WAIT[Wait]
+        WAIT --> L1
+        M1 --> N1([End Motion Process])
+    end
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+    subgraph LED["Weight and Distance Sensor - LED Control"]
+        F2 --> G2[Determine LED Color - Green to Red scale]
+        G2 --> H2[Read Distance Sensor]
+        H2 --> I2{Object Too Close?}
+        I2 -->|Yes| J2[Override LED to RED]
+        I2 -->|No| K2[Maintain Weight-Based LED Color]
+        J2 --> L2[Output LED State]
+        K2 --> L2
+        L2 --> M2([End LED Process])
+    end
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+    subgraph COLORLOGIC["LED Color Decision Logic"]
+        CL1([Start Color Decision]) --> CL2{Weight Capacity Level}
+        CL2 -->|0% - 25%| CL3[Set LED to Green]
+        CL2 -->|25% - 50%| CL4[Set LED to Yellow]
+        CL2 -->|50% - 75%| CL5[Set LED to Orange]
+        CL2 -->|75% - 100%| CL6[Set LED to Red]
+        CL3 --> CL7([Color Selection Complete])
+        CL4 --> CL7
+        CL5 --> CL7
+        CL6 --> CL7
+    end
 
+    M2 --> LOOP_MERGE[End of loop]
+    N1 --> LOOP_MERGE
+    LOOP_MERGE --> D 
 
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+    subgraph INIT["Initialization Details"]
+        I1a([Start Initialization]) --> I2a[Set Hardware Registers]
+        I2a --> I3a[Configure Sensor I/O Pins]
+        I3a --> I4a[Configure Motor and LED Drivers]
+        I4a --> I5a[Reset Internal Variables]
+        I5a --> I6a[Load Default Parameters]
+        I6a --> I7a([Initialization Complete])
+    end
 
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
+    B -.-> I1a
+    G2 -.-> CL1
 
