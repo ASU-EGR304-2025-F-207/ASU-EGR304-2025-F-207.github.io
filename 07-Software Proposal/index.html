@@ -637,19 +637,22 @@
 <p>This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic.</p>
 <p>```mermaid
 flowchart TD
+    %% Main flow
     A([Start]) --&gt; B[Initialize Program]
     B --&gt; C{Initialization Complete?}
     C --&gt;|Yes| D[Run Main Loop]
     C --&gt;|No| B
     D --&gt; E[Begin Parallel Sensor Processes]</p>
-<pre><code>E --- MOTION_TOP
-E --&gt; F2[Read Weight Sensor]
+<pre><code>%% Parallel starters
+E --- MOTION_TOP
+E --- LED_TOP
 
+%% Motion subgraph
 subgraph MOTION["Motion Sensor and Motor Control"]
-    MOTION_TOP([ ]) --&gt; F1[Read Motion Sensor]
-    style MOTION_TOP fill:none,stroke:none
-
-    F1 --&gt; G1{Motion Detected?}
+MOTION_TOP([ ]) --&gt; F1[Read Motion Sensor]
+</code></pre>
+<p>style MOTION_TOP fill:none,stroke:none</p>
+<pre><code>    F1 --&gt; G1{Motion Detected?}
     G1 --&gt;|Yes| H1[Send Signal to Motor Controller]
     G1 --&gt;|No| I1[Keep Motor Idle]
     I1 --&gt; G1 
@@ -662,17 +665,22 @@ subgraph MOTION["Motion Sensor and Motor Control"]
     M1 --&gt; N1([End Motion Process])
 end
 
+%% LED/weight/distance subgraph
 subgraph LED["Weight and Distance Sensor - LED Control"]
-    F2 --&gt; G2[Determine LED Color - Green to Red scale]
-    G2 --&gt; H2[Read Distance Sensor]
-    H2 --&gt; I2{Object Too Close?}
-    I2 --&gt;|Yes| J2[Override LED to RED]
-    I2 --&gt;|No| K2[Maintain Weight-Based LED Color]
-    J2 --&gt; L2[Output LED State]
-    K2 --&gt; L2
-    L2 --&gt; M2([End LED Process])
-end
-
+ LED_TOP([ ]) --&gt; F2[Read Weight Sensor]
+</code></pre>
+<p>style LED_TOP fill:none,stroke:none
+        F2 --&gt; G2[Determine LED Color - Green to Red scale]
+        G2 --&gt; H2[Read Distance Sensor]
+        H2 --&gt; I2{Object Too Close?}
+        I2 --&gt;|Yes| J2[Override LED to RED]
+        J2 --&gt; Z2[Play Sound Indicating Full]
+        I2 --&gt;|No| K2[Maintain Weight-Based LED Color]
+        Z2 --&gt; L2[Output LED State]
+        K2 --&gt; L2
+        L2 --&gt; M2([End LED Process])
+    end</p>
+<pre><code>%% LED color logic subgraph
 subgraph COLORLOGIC["LED Color Decision Logic"]
     CL1([Start Color Decision]) --&gt; CL2{Weight Capacity Level}
     CL2 --&gt;|0% - 25%| CL3[Set LED to Green]
@@ -685,10 +693,12 @@ subgraph COLORLOGIC["LED Color Decision Logic"]
     CL6 --&gt; CL7
 end
 
+%% Merge and loop
 M2 --&gt; LOOP_MERGE[End of loop]
 N1 --&gt; LOOP_MERGE
 LOOP_MERGE --&gt; D
 
+%% Initialization sub-diagram
 subgraph INIT["Initialization Details"]
     I1a([Start Initialization]) --&gt; I2a[Set Hardware Registers]
     I2a --&gt; I3a[Configure Sensor I/O Pins]
@@ -698,6 +708,7 @@ subgraph INIT["Initialization Details"]
     I6a --&gt; I7a([Initialization Complete])
 end
 
+%% Cross-links
 B -.-&gt; I1a
 G2 -.-&gt; CL1
 </code></pre>
