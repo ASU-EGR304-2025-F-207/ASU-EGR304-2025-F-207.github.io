@@ -3,7 +3,7 @@
 This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic.
 
 <div class="mermaid">
-flowchart TD
+flowchart LR
     %% Main flow
     A([Start]) --> B[Initialize Program]
     B --> C{Initialization Complete?}
