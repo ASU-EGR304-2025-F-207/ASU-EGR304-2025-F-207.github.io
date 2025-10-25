@@ -1,4 +1,4 @@
-# Software Proposal: Activity Diagram
+# Software Proposal
 
 This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic.
 
