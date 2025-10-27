@@ -1,4 +1,5 @@
 ### Feature Priorities
+###
 
 Below is a table about our project's possible features. After naming 100 features, we ranked them on a scale of 1-10 of how high of a priority each feature is to us with 10 being our highest priorities and 1 being the lowest of our priorities.
 
@@ -238,6 +239,7 @@ Solar powered (P2)
 
 ### Product Concepts
 
+
 This next table shows three different design concepts, each with a list of features that they would have.
 
 <table>
@@ -311,21 +313,21 @@ Prepares the next bag automatically
 
 
 
-## Trash Can One 
+### Trash Can One 
 
-## 
+
 
 <img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
 
-## Trash Can Two 
+### Trash Can Two 
 
-## 
+
 
 <img width="2360" height="1640" alt="Trashcan2" src="https://github.com/user-attachments/assets/7e5308b6-97a6-4d5b-b9f5-da39a5682934" />
 
-## Trash Can Three 
+### Trash Can Three 
 
-##
+###
 
 <img width="2903" height="1640" alt="Trashcan3" src="https://github.com/user-attachments/assets/dd99d09d-7e6f-4766-8504-d7966c34ebd6" />
 
