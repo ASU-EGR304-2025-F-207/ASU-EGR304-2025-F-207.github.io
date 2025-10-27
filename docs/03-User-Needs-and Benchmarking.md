@@ -30,7 +30,7 @@ Search Results Links :
 * Vendor: Amazon
 * Description: 13 Gal. / 49 Liter Stainless Steel Household Metal Trash Can with Sensor Lid and Odor Filter
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -38,7 +38,7 @@ Search Results Links :
 | “The product description states 13 gallon however, the actual size is much smaller. I would have returned the item due to the ridiculous size difference but my husband had already torn the box and Home Depot stated I couldn’t return it without the box. It was a project just to assemble the trash can as well. Too many tiny screws!!!” | The product should be clear in its sizing,  The product should be easy to assemble for the customer,  The product should be easy to assemble for the customer |
 | “NOT WORTH THE PRICE. I never ordered a trash bin before so I wasn't entirely sure what to expect. I assumed that a 13 gallon was the average size for kitchen trash bins but this just seems extremely small to me. I made this purchase knowing that it was motion sensing and odorless technology so I expected it to either be battery operated or plug - in. It is plug in... But you have to purchase the AC adapter separately as well as everything else that makes it "techy". So for the price I paid I just received a regular trash bin that I have to manually open and deal with smells unless I buy the rest of the kit. I'll be returning this as soon as possible and I will purchase a regular trash bin instead for much cheaper. Lesson learned.”                |  The product should not be too small to be used,   The product should be able to easily be powered,  The product should be battery operated or plug into a power source.  The product should be affordable |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -55,7 +55,7 @@ Search Results Links :
 * Vendor: Walmart
 * Description: Fdelink Kitchen Cleaning Supplies Self-Sealing and Self-Changing 4.22 Gallon Trash Can Automatic Open Lid and Mo Trash Can (White)
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -65,7 +65,7 @@ Good in pairs.
  |
 | “I thought it would be bigger, cute desk trash can though!.”                |  Good desk product |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -82,7 +82,7 @@ Good in pairs.
 * Vendor: Amazon
 * Description: Automatic Trash Can, 4 Gallon Self Sealing and Self-Changing Smart Trash Can, Motion Sensor, Touchless Garbage can with lid for Kitchen Bathroom Bedroom, 6 Refill Rings(A1, Black Line)
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -90,7 +90,7 @@ Good in pairs.
 | “I really love this garbage can. Once I figured out what “full” looks like for the automatic sealing mechanism, it’s been everything I hoped for. A helpful tip: if the bag doesn’t cut cleanly after sealing, it’s probably slightly overfilled—just press down the top a bit manually, and it should work perfectly.    One of the best features is the rechargeable battery. I honestly forget it even needs charging because it lasts for months—I think it’s been at least 3 months since the last charge.   The lights inside the can are a cute touch, though they’re more for novelty than practical use. I did knock off one star because the motion sensor isn’t quite sensitive enough. I usually have to wave my hand right up close—or even touch it—to get the lid to open. Overall, it’s a fantastic product with smart features and a sleek design. Just wish the motion sensor worked a little better!” | The product should have a long battery life.  The product should allow the user to correct basic mistakes.  The product should provide illumination.  The product’s sensors should be sensitive enough to properly detect what they are looking for. |
 | “Had this trash can for well over a year now. So much better than Simple Human. Love that out has an open lid mode and bags the trash and refills the bag. It talks to me like a robot. Super awesome. Also freaks out the cat, which is always amusing. The sensor also works consistently, unlike our SH can in the kitchen. Also like that is rechargeable and I don't have to recharge it often; I recharge it a few times a year. This trash can is just cool - I LOVE IT! ❤️ Smart people designed it.”                |  The product’s sensors should work consistently.  The product should be power efficient.  The product should last for as long as possible. | 
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -118,7 +118,7 @@ Charge 7 hours, use for 90-180 days
 Also a new option for buying diaper pails
 
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -127,7 +127,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Love it! I purchased this for my 83 year old mom to use in her bathroom. She loves it!” | Good for older customers. |
 | “I purchased the trashcan for my bathroom. I admit that the purchase is a bit frivolous. Spending that much money on a trash can for the bathroom is a bit crazy...BUT, money aside, I really do love it. I love that it seals up the bag so quickly and well. I love how the bag opens up and fills the bin without the puffs of air that can typically get trapped between the bag and bin. We've had it for a few weeks now and typically have a full can every week. It's still on the same charge and same bag container provided. A bit pricy, but I think it was worth it.”                |  Not a complete necessity.  Function effectively.  Without air trapping.  Pricey |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -144,7 +144,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 * Vendor: Amazon
 * Description: Automatic Trash Bag Adsorption This bathroom trash can automatic touchless features an innovative automatic trash bag adsorption design. It makes bagging time - saving and labor - saving, ensuring the trash bag fits neatly and smoothly against the bucket wall. With the same size, the capacity is doubled, reducing the trouble of frequent garbage bag replacement and bringing more convenience to your life.
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -152,7 +152,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Works great. Too soon to tell on battery life but so far, so good. Trash bags are a little tricky to put in but gets easier with practice. The air sucking the trash bag open in the can is really neat and works really well - just be careful not to get the trash bag over the opening when installing a new trash bag.” | Product should be able to hold more content.  Installing new trash bags is tricky. |
 | “Lid opens good, motion detection very easy to use you just put batteries in, and it automatically opens the trash bag up once you put it inside, the only thing is that it is a bit small but it’s nice and compact”                |  The products lid works as intended.  Motion sensors are easy to use |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -169,7 +169,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 * Vendor: Walmart
 * Description: Nine Stars Motion Sensor Automatic Trash Can, 21 Gallon Stainless Steel, Motion Sensor Hands-Free Soft-Close Lid Garbage Bin, Silver
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -178,7 +178,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Have had it for 2 days, a pleasure to use every time. The height is great, nice capacity, without even filling fully. And- hands free is the best, with food anything in your hands. I see it as a little pricey, but a good %26 practical investment. Probably helps with pet issues, my dog is very small- but could tip the 21 gallon garbage can if able to grab of the bag.”                |  The product should be made at a comfortable height.  The product should be able to be hands-free.  The product should be safe from pets.  The product should be safe for animals or children that are around it. |
 | “This is a great addition to my steel appliances in my kitchen ! It was marked at a great price for the holiday shopping and does wonders with a full bin for trash. Less trips to my garbage can outside lol - The top is an automatic open but it doesn’t open full everytime - however I’m happy with it. It takes 3 D batteries in the top cover of the can to operate the functions open/close. There are two buttons that also do the same functions on the can liner cover.”               | The product should be able to handle full or overfull capacity.  The product should have a way to bypass a malfunctioning sensor.  The product should be able to be conveniently repowered. |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
