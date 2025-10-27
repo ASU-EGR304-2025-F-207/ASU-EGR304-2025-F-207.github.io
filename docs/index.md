@@ -26,7 +26,7 @@ Our team consists of Four Arizona State University Student Engineers. We are cur
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Gael Chavez                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io/) |
+| Gael Chavez                | [Gael Chavez's datasheet](https://ludael02.github.io/gael_chavez.github.io/) |
 | Hattie Lee                | [Hattie Lee's datasheet](https://jhlee59.github.io/) |
 | Riley Franco                | [Riley Franco's datasheet](https://riatron8.github.io/) |
-| Name #4                | link |
+| Alessandro Garcia                | [Alessandro Garcia's datasheet](https://asgarc31.github.io/AlessandroGarcia.github.io) |
