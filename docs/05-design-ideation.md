@@ -1,367 +1,7 @@
----
-title: Design Ideation
-<table>
-  <tr>
-   <td>User Needs
-   </td>
-  </tr>
-  <tr>
-   <td>The product is easy to recharge(L)
-<p>
-The Product uses D Batteries(E)
-<p>
-Product is not damaged(E)
-<p>
-Product is sturdy
-<p>
-Product is aesthetically pleasing(E)
-<p>
-Product is automatic
-<p>
-Product does not take up much space(E)
-<p>
-Product deodors itself(E)
-<p>
-Product should have a long lifespan, up to 10 years.(E) 
-<p>
-Product should minimize manual steps(L)
-<p>
-Product should allow easy replacement of contents(E)
-<p>
-Product should last longer than a few months(L)
-<p>
-Product should not stain easily(E)
-<p>
-The product’s sensors should only go off when desired(E)
-<p>
-Product should have intuitive design.(L)
-<p>
-The product should be clear in its sizing(E)
-<p>
-The product should be easy to assemble for the customer(E)
-<p>
-The product should not be too small to be used(E)
-<p>
-The product should be able to easily be powered(E)
-<p>
-The product should be battery operated or plug into a power source.(L)
-<p>
-The product should be affordable(L)
-   </td>
-  </tr>
-  <tr>
-   <td>The product is too small.(E)
-<p>
-The product has low capacity.(E)
-<p>
-Good for bathroom use. 
-<p>
-Good in pairs.(L)
-<p>
-Good desk product.(E)
-<p>
-The top doesn’t fit well together.(E)
-<p>
-The trash can is flimsy.(E)
-<p>
-Warping(L)
-<p>
-Small, flimsy and bendable(E)
-   </td>
-  </tr>
-  <tr>
-   <td>The product should be sleek(E)
-<p>
-The product should automatically do as many tasks as possible(L)
-<p>
-The product’s opening should be wide(E)
-<p>
-The product should be priced as low as possible(L)
-<p>
-The product should have a long battery life(E)
-<p>
-The product should allow the user to correct basic mistakes(L)
-<p>
-The product should provide illumination(L)
-<p>
-The product’s sensors should be sensitive enough to properly detect what they are looking for(E)
-<p>
-The product’s sensors should work consistently(E)
-<p>
-The product should be power efficient(L)
-<p>
-The product should last for as long as possible(L)
-<p>
-The product should be able to ship without damage(E)
-<p>
-The product should be able to perform its functions reliably.(E)
-<p>
-The product should be sized properly for its function(E)
-<p>
-The sensors for the product should function reliably(E)
-<p>
-The product should promptly respond to the user(E)
-<p>
-The product should have its mechanisms work reliably(L)
-<p>
-The product should not have flimsy components(E)
-<p>
-The product should have easily replaceable and cheap internals, if they need to be replaced at all. (E)
-   </td>
-  </tr>
-  <tr>
-   <td>This product's function is complete.(L)
-<p>
-Both battery and wired power.(E)
-<p>
-Could be taller. (E)
-<p>
-Good for older customers. (E)
-<p>
-Not a complete necessity.(L) 
-<p>
-Function effectively. (E)
-<p>
-Without air trapping. (E)
-<p>
-Pricey(E)
-<p>
-Is loud somewhere in the process. (E) 
-<p>
-Not charging.(L)
-<p>
-Not sealing or opening all the way. (E)
-<p>
-Not an obvious fix.(E)
-<p>
- 
-<p>
-Not working but halfway functional(E). 
-   </td>
-  </tr>
-  <tr>
-   <td>Product is small (E)
-<p>
-Product has a motion sensor(E)
-<p>
-Sensor is too sensitive(L)
-<p>
-Product should be able to hold more content(L)
-<p>
-Installing new trash bags is tricky. (E)
-<p>
-The products lid works as intended(E)
-<p>
-Motion sensors are easy to use(E)
-<p>
-The product shouldn’t be toos small(E)
-<p>
-The product does not receive power(E)
-<p>
-The product is good enough to  buy a second(E)
-<p>
-The products hinge/servomotor does not work properly(E)
-<p>
-The products durability was way less than whats anticipated(E)
-<p>
-The product is not worth the price(E)
-<p>
-Flimsy build and plastic pieces(E)
-<p>
-Should not make too much noise (L)
-<p>
-The product doesn’t open.(E)
-   </td>
-  </tr>
-  <tr>
-   <td>The product should appear modern(E)
-<p>
-The product should have a manual backup(L)
-<p>
-The product should use convenient and cheap methods of powering itself(E)
-<p>
-The product should reliably move through its full range of motion(E)
-<p>
-The product should be able to easily be repaired or have parts replaced(L)
-<p>
-The product should be easy to troubleshoot(L)
-<p>
-The product should not require strong technical knowledge to use(L)
-<p>
-The product should be made at a comfortable height(E)
-<p>
-The product should be able to be hands-free(E)
-<p>
-The product should be safe from pets(E)
-<p>
-The product should be safe for animals or children that are around it(E)
-<p>
-The product should be able to handle full or overfull capacity(E) 
-<p>
-The product should have a way to bypass a malfunctioning sensor(E)
-<p>
-The product should be able to be conveniently repowered(E)
-<p>
-The product should work reliably for a long time(E)
-<p>
-The product should be able to be fixed easily(L)
-<p>
-The product should be as cheap as possible.(E)
-<p>
-The documentation for the product should be thorough(L)
-<p>
-The product should be tested and have common issues fixed before shipping(L)
-<p>
-The casings for internals of the product should be sturdy(E)
-<p>
-The product should not waste power(E)
-   </td>
-  </tr>
-</table>
+### Feature Priorities
+###
 
-
-(H)
-
-
-
-1. The product should be able to be hands-free(E)
-* Voice control to open/close
-* Foot pedal 
-* Smart app 
-* Knee touch button
-* Motion senor 
-2. The product should be able to handle full or overfull capacity(E)
-* An expandable container 
-* A flattener like a compressor
-* Fill level indicator light or sound
-* More than one container
-* Weight detection
-3. Flimsy build and plastic pieces
-* Metal components 
-* Reinforced plastic
-* Outer shell attachment 
-* Shock absorbing rubber feet 
-* Metal frame and plates inside
-4. Both battery and wired power
-* Battery backup in case of a power outage
-* Rechargeable batteries included
-* Solar panels 
-* All commonly used ports are installed like USB C
-* A power switcher and indicator when the battery is low
-5. The product’s opening should be wide
-* Sliding door instead of a flip lid
-* Smart sensor to expand based on object size
-* Trap door lid
-* Unhinged top like a snake's mouth
-* Elapse top and edges 
-
-R
-
-
-
-1. Product deodors itself(E)
-    1. Trash bags that fight odor
-    2. Burn internals to remove bacteria
-    3. Air freshener inside
-    4. Keeps odorous components hidden
-    5. Cleans itself
-2. Product should allow easy replacement of contents(E)
-    1. Opens automatically
-    2. Automatically packages contents
-    3. Prepares the next bag automatically
-    4. Easy to grab handles
-    5. Incinerate previous contents
-3. The product’s sensors should only go off when desired(E)
-    1. Very precise sensors
-    2. Multiple sensors looking for similar things
-    3. Different types of sensors
-    4. Time to ensure the signal is intentional
-    5. Operators watching and ensuring sensor is correct
-4. The product should be easy to assemble for the customer(E)
-    1. Prebuilt product
-    2. Product only requires screwing together
-    3. Instruction manual
-    4. Pieces can be slotted together
-    5. Product is only one piece
-5. The product should be able to easily be powered(E)
-    1. Powered by easily procured batteries
-    2. Able to be plugged into a wall
-    3. Is able to be wirelessly charged
-    4. Solar powered
-    5. Manually powered
-
-A
-
-
-
-1. The product should provide illumination(L)
-    1. Digital display
-    2. LEDs around the rim of the lid
-    3. Small light under lid
-    4. Light above foot pedal
-    5. Night light mode
-2. The product should be able to be fixed easily(L)
-    1. Easy to find parts
-    2. Manual that describes each part’s function
-    3. Commonly found screws
-    4. Small tools come with product
-    5. Replacement screws
-3. Good for older customers. (E)
-    1. Text-to-speech 
-    2. AI-based text-to-speech
-    3. Easy to read display
-    4. Verbal capacity notifications
-    5. Battery notifications
-4. Product is aesthetically pleasing(E)
-    1. White, Black, or Metal
-    2. Sleek coating
-    3. Rounded edges
-    4. Slim form factor
-    5. No protrusions
-5. Should not make too much noise (L)
-    1. Noise dampening 
-    2. Quiet motors
-    3. Lubed joints
-    4. Respective tolerances
-    5. Silent mode feature
-
-G
-
-
-
-1. The product should be safe from pets(E)
-	1. Metal case
-	2. No exposed circuitry
-	3. No sharp corners
-	4. Slippery sides
-	5. Solid/heavy base
-2. The product should not require strong technical knowledge to use(L)
-	1. Instructions with images
-	2. Buttons
-	3. Mark every input
-	4. No hidden inputs
-	5. Diagram with every input and description in instructions
-3. Motion sensors are easy to use(E)
-	1. Instructions
-	2. Uncovered sensors
-	3. Protected sensors
-	4. Visually distinctive
-	5. Color LEDs to representation action
-4. The product should last for as long as possible(L)
-	1. Metal materials
-	2. Well protected circuitry
-	3. Solid internal structure
-	4. Modular 
-	5. Repair tools included
-5. The product should be made at a comfortable height(E)
-	1. Modular base 
-	2. Adjustable feet
-	3. Multiple models with different volumes/heights
-	4. Piston to raise the internal can
-	5. Storage base to increase height
-
-
-
+Below is a table about our project's possible features. After naming 100 features, we ranked them on a scale of 1-10 of how high of a priority each feature is to us with 10 being our highest priorities and 1 being the lowest of our priorities.
 
 <table>
   <tr>
@@ -525,78 +165,82 @@ Shock absorbing rubber feet (P8)
 <p>
 Metal frame and plates inside (P8)
 <p>
-Battery backup in case of a power outage (P
+Battery backup in case of a power outage (P7)
 <p>
-Rechargeable batteries included
+Rechargeable batteries included (P3)
 <p>
-Solar panels 
+Solar panels (P2)
 <p>
-All commonly used ports are installed like USB C
+All commonly used ports are installed like USB C (P6)
 <p>
-A power switcher and indicator when the battery is low
+A power switcher and indicator when the battery is low (P6)
 <p>
-Very precise sensors
+Very precise sensors (P10)
 <p>
-Multiple sensors looking for similar things
+Multiple sensors looking for similar things (P3)
 <p>
-Different types of sensors
+Different types of sensors (P9)
 <p>
-Time to ensure the signal is intentional
+Time to ensure the signal is intentional (P10)
 <p>
-Operators watching and ensuring sensor is correct
+Operators watching and ensuring sensor is correct (P8)
 <p>
-Metal materials
+Metal materials (P5)
 <p>
-Well protected circuitry
+Well protected circuitry (P10)
 <p>
-Solid internal structure
+Solid internal structure (P10)
 <p>
-Modular 
+Modular (P6)
 <p>
-Repair tools included
+Repair tools included (P6)
 <p>
-Easy to find parts
+Easy to find parts (P4)
 <p>
-Manual that describes each part’s function
+Manual that describes each part’s function (P8)
 <p>
-Commonly found screws
+Commonly found screws (P6)
 <p>
-Small tools come with product
+Small tools come with product (P5)
 <p>
-Replacement screws
+Replacement screws (P4)
    </td>
   </tr>
   <tr>
    <td>Eliminates manual steps
    </td>
-   <td>Automatically packages contents
+   <td>
+Automatically packages contents (P1)
 <p>
-Prepares the next bag automatically
+Prepares the next bag automatically (P2)
 <p>
-Easy to grab handles
+Easy to grab handles (P4)
 <p>
-Incinerate previous contents
+Incinerate previous contents (P1)
 <p>
-Prebuilt product
+Prebuilt product (P10)
 <p>
-Product only requires screwing together
+Product only requires screwing together (P6)
 <p>
-Instruction manual
+Instruction manual (P10)
 <p>
-Pieces can be slotted together
+Pieces can be slotted together (P8)
 <p>
-Product is only one piece
+Product is only one piece (P9)
 <p>
-Able to be plugged into a wall
+Able to be plugged into a wall (P10)
 <p>
-Is able to be wirelessly charged
+Is able to be wirelessly charged (P7)
 <p>
-Solar powered
+Solar powered (P2)
    </td>
   </tr>
 </table>
 
+### Product Concepts
 
+
+This next table shows three different design concepts, each with a list of features they would provide.
 
 <table>
   <tr>
@@ -672,13 +316,12 @@ Prepares the next bag automatically
 ### Trash Can One 
 
 
-### 
 
 <img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
 
 ### Trash Can Two 
 
-### 
+
 
 <img width="2360" height="1640" alt="Trashcan2" src="https://github.com/user-attachments/assets/7e5308b6-97a6-4d5b-b9f5-da39a5682934" />
 
@@ -691,6 +334,13 @@ Prepares the next bag automatically
 
 
 
+
+=======
+### Documentation
+
+For this project, a brainstorming session was needed to generate input for three sketches of a self-locking trash can. The first step in brainstorming was to decide on a starting concept. From this initial conversation, ideas emerged such as a product that helps organize the home, a home cleaning device, and finally, a self-locking trash can. The idea we ultimately settled on was the one we ultimately chose.
+
+>>>>>>> 13e1dbdba0f0ed5ebbd8b379ad97009356d8e950
 Once the concept was chosen, market research and market offerings were conducted. This research was conducted individually and online. All results were recorded in a group Google Docs. This research provided us with five products with multiple positive and negative reviews. We then held an in-person meeting where we divided the work of sorting through these reviews into functional concepts from which to base the brainstorming session. Once the draw was over, a group meeting was held in the library where we organized ourselves to evaluate our areas of opportunity in relation to our teamwork and discuss how to carry out the "Team Design Ideation" activity.
 
 From this concept drawing, a list of 100 areas of opportunity emerged. Since our group consisted of four members, we each chose five areas of opportunity that were relatively different from each other and deconstructed each one into five ways to solve or attack it. This left us with a list of 100 data points. Once step two was completed, we divided into subgroups to cover more in less time. The "subgroup" in charge of step three was Riley and Alessandro. They were in charge of collecting and categorizing the list of 100 data points into six groups. Once the 100 points were analyzed, Riley and Alessandro worked on forming groups or categories to encompass this data. Finally, the list was reduced to six groups, into which the data were divided according to their respective categories without repeating categories. Once this was completed, it was decided to rank each feature on a scale of 1 to 10. This was done by asking a third party, who was unfamiliar with the activity and/or product, and asking them to give a rating from 1 to 10 according to the respective category.
@@ -698,7 +348,3 @@ From this concept drawing, a list of 100 areas of opportunity emerged. Since our
 After reviewing the top-ranked ideas and combining them in different ways, they came up with three product ideas. These were used as the basis for part 4. Hattie reviewed the groups initially created for step 3 to gain a better understanding when visually capturing the three product ideas in three different vector drawings. Finally, in step 5, Gael gathered all the information from the Google Docs where the process and results of all the previous steps were compiled and created a duplicate on our group's GitHub.
 
 
-Add your different product concepts stuff here
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
