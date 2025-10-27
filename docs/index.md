@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Trash Canner<br>
 <font size="5">Team 207<br>
 **Submission: 09, 05, 2025**<br>
 Fall 2025<br>
@@ -27,6 +27,6 @@ Professor Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Gael Chavez                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io/) |
-| Hattie Lee                | [https://jhlee59.github.io/](https://jhlee59.github.io/) |
+| Hattie Lee                | [Hattie Lee's datasheet](https://jhlee59.github.io/) |
 | Riley Franco                | [Riley Franco's datasheet](https://riatron8.github.io/) |
 | Name #4                | link |
