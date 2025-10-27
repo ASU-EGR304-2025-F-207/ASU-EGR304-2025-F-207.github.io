@@ -12,3 +12,6 @@ Our team is an aspiring group of student engineers committed to learning and app
 ## Product Mission Statement
 
 Our mission is to support those families, individuals and businesses that wish to have better organization and control over their waste by giving them a product with multiple sensors and visual functions.
+
+## Team Organization
+The team's organizational structure can be located in detail in the [appendix](https://asu-egr304-2025-f-207.github.io/Appendix/App-Team-Org/)
