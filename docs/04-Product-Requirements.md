@@ -40,7 +40,7 @@ The new product design will be based on existing automatic trash cans on the mar
     * 1.4 The product shall be durable so that it can withstand some abuse and still retain its functionality. (P10)
     * 1.5 The product shall make it easy for the user to replace and secure a standard trash bag. (P10)
 * **Functionality**
-    * 2.1 2.1 The product shall be equipped with a motion sensor to open only when the user wants to throw some garbage away. (P10)
+    * 2.1 The product shall be equipped with a motion sensor to open only when the user wants to throw some garbage away. (P10)
     * 2.2 The product shall include a fullness sensor that detects when the trash can is nearing maximum capacity. (P9)
     * 2.3 The product shall notify the user (via light or sound indicator) when the can is full and the bag needs to be replaced. (P8)
     * 2.4 The product shall be able to hold a battery charge for long periods of time. (P4)
@@ -49,24 +49,24 @@ The new product design will be based on existing automatic trash cans on the mar
 
 ## Requirement Criteria Specifications
 
- **Convenience / Automation**
+* **Convenience / Automation**   
    * The lid shall open within 0.8–1.5 seconds of detecting motion approximately 20–30 cm above the sensor.
    * The sensor shall reliably detect hand movement or object motion with a minimum accuracy of 95%.
    * The trash can's lid shall automatically close 2–4 seconds after motion is no longer detected.
    * The fullness sensor shall accurately indicate when the trash level has reached 90–95% capacity, prompting the user to replace the bag.
 
- **User Experience**   
+* **User Experience**   
    * The lid’s opening and closing operations shall not exceed 45 decibels at a distance of 1 meter (roughly the sound of a quiet refrigerator).
    * The indicator system (light and/or sound) shall clearly signal when the can is full or requires maintenance, and remain visible/audible under typical indoor lighting and noise conditions.
    * The trash can shall be designed for easy bag replacement, requiring no more than two simple steps to insert or remove a standard trash bag.
    * The product shall include an optional manual open button for accessibility or when the motion sensor is deactivated.
    * The lid mechanism shall be somewhat slow, smooth, and safe, preventing finger pinching or sudden closure.
 
- **Market Competitiveness**
+* **Market Competitiveness**   
    * The cost of production (including components, assembly, and packaging) shall not exceed 50–60% of the retail sale price to maintain profitability.
    * The design shall be compatible with standard 13-gallon (50-liter) trash bags to reduce customer friction and improve adoption.
 
-  **Durability / Reliability**
+*  **Durability / Reliability**   
     * The exterior and lid shall withstand minor impacts (such as tipping over or being bumped) without breaking or losing alignment.
     * The electronics compartment shall be water-resistant (minimum IPX3 rating) to protect against splashes and light cleaning.
     * The product shall resist grease buildup and dust accumulation, ensuring sensors remain operational for at least 12 months without manual cleaning.
