@@ -240,7 +240,7 @@ Solar powered (P2)
 ### Product Concepts
 
 
-This next table shows three different design concepts, each with a list of features that they would have.
+This next table shows three different design concepts, each with a list of features they would provide.
 
 <table>
   <tr>
