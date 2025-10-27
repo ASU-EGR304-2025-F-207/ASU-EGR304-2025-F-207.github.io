@@ -335,7 +335,6 @@ Prepares the next bag automatically
 
 
 
-=======
 ### Documentation
 
 For this project, a brainstorming session was needed to generate input for three sketches of a self-locking trash can. The first step in brainstorming was to decide on a starting concept. From this initial conversation, ideas emerged such as a product that helps organize the home, a home cleaning device, and finally, a self-locking trash can. The idea we ultimately settled on was the one we ultimately chose.

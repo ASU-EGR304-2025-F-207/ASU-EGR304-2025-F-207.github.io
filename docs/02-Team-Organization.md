@@ -11,4 +11,4 @@ Our team is an aspiring group of student engineers committed to learning and app
 
 ## Product Mission Statement
 
-Our mission is to help common households be more efficient with their use of public resources in daily life. 
+Our mission is to support those families, individuals or businesses that wish to have better organization and control over their waste by giving them a product with multiple mechanical and visual functions.
