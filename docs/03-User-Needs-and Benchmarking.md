@@ -6,7 +6,8 @@ tags:
 ---
 
 ## Voices of the Customers Benchmarking 
-
+Summary:   
+ * Our team decided on Usability, Performance, and Durability as the main categories for the user needs. Performance was chosen because many requirements relate to how effectively the product functions. This covers power efficiency, sensor accuracy, and reliability. Improvements here should focus on refining sensor calibration, reducing operational noise and consistency in automatic functions. Usability was selected because of several key needs for daily use. The product should ensure that it is easy to operate, assemble, and maintain. Durability was included because product longevity and structural strength are key to customer satisfaction. Addressing issues like flimsy materials, warping, and wear will require stronger components. Together, improvements across these three areas will result in a product that performs efficiently, is user friendly, and is reliable over time.
 ## Top #6 Searches
 
 Keywords "Automatic Trash Can/Self Tying Trash Can"
