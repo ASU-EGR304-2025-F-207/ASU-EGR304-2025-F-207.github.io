@@ -162,79 +162,80 @@ Shock absorbing rubber feet (P8)
 <p>
 Metal frame and plates inside (P8)
 <p>
-Battery backup in case of a power outage (P
+Battery backup in case of a power outage (P7)
 <p>
-Rechargeable batteries included
+Rechargeable batteries included (P3)
 <p>
-Solar panels 
+Solar panels (P2)
 <p>
-All commonly used ports are installed like USB C
+All commonly used ports are installed like USB C (P6)
 <p>
-A power switcher and indicator when the battery is low
+A power switcher and indicator when the battery is low (P6)
 <p>
-Very precise sensors
+Very precise sensors (P10)
 <p>
-Multiple sensors looking for similar things
+Multiple sensors looking for similar things (P3)
 <p>
-Different types of sensors
+Different types of sensors (P9)
 <p>
-Time to ensure the signal is intentional
+Time to ensure the signal is intentional (P10)
 <p>
-Operators watching and ensuring sensor is correct
+Operators watching and ensuring sensor is correct (P8)
 <p>
-Metal materials
+Metal materials (P5)
 <p>
-Well protected circuitry
+Well protected circuitry (P10)
 <p>
-Solid internal structure
+Solid internal structure (P10)
 <p>
-Modular 
+Modular (P6)
 <p>
-Repair tools included
+Repair tools included (P6)
 <p>
-Easy to find parts
+Easy to find parts (P4)
 <p>
-Manual that describes each part’s function
+Manual that describes each part’s function (P8)
 <p>
-Commonly found screws
+Commonly found screws (P6)
 <p>
-Small tools come with product
+Small tools come with product (P5)
 <p>
-Replacement screws
+Replacement screws (P4)
    </td>
   </tr>
   <tr>
    <td>Eliminates manual steps
    </td>
-   <td>Automatically packages contents
+   <td>
+Automatically packages contents (P1)
 <p>
-Prepares the next bag automatically
+Prepares the next bag automatically (P2)
 <p>
-Easy to grab handles
+Easy to grab handles (P4)
 <p>
-Incinerate previous contents
+Incinerate previous contents (P1)
 <p>
-Prebuilt product
+Prebuilt product (P10)
 <p>
-Product only requires screwing together
+Product only requires screwing together (P6)
 <p>
-Instruction manual
+Instruction manual (P10)
 <p>
-Pieces can be slotted together
+Pieces can be slotted together (P8)
 <p>
-Product is only one piece
+Product is only one piece (P9)
 <p>
-Able to be plugged into a wall
+Able to be plugged into a wall (P10)
 <p>
-Is able to be wirelessly charged
+Is able to be wirelessly charged (P7)
 <p>
-Solar powered
+Solar powered (P2)
    </td>
   </tr>
 </table>
 
 
-This next table shows our different design concepts, each with a list of features that they would have.
+This next table shows three different design concepts, each with a list of features that they would have.
 
 <table>
   <tr>
@@ -309,7 +310,6 @@ Prepares the next bag automatically
 
 ### Trash Can One 
 
-
 ### 
 
 <img width="2360" height="1640" alt="TrashCan1" src="https://github.com/user-attachments/assets/43e8aa32-b1db-4596-babd-05288693d35b" />
@@ -329,22 +329,9 @@ Prepares the next bag automatically
 
 
 
-### Step 5: Document your work
+### Documentation
 
-Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font),
-
-
-
-* The process by which you ran your brainstorm session
-    * Who participated
-    * How did you meet
-    * How did you collect ideas (what tools did you use? who collected them?)
-    * Which project assignment(s) did you draw your list of requirements from?
-    * What other resources did you use to generate ideas?
-* How you grouped features
-    * How you applied rankings to top ideas
-
-	For this project, a brainstorming session was needed to generate input for three sketches of a self-locking trash can. The first step in brainstorming was to decide on a starting concept. From this initial conversation, ideas emerged such as a product that helps organize the home, a home cleaning device, and finally, a self-locking trash can. The idea we ultimately settled on was the one we ultimately chose.
+For this project, a brainstorming session was needed to generate input for three sketches of a self-locking trash can. The first step in brainstorming was to decide on a starting concept. From this initial conversation, ideas emerged such as a product that helps organize the home, a home cleaning device, and finally, a self-locking trash can. The idea we ultimately settled on was the one we ultimately chose.
 
 Once the concept was chosen, market research and market offerings were conducted. This research was conducted individually and online. All results were recorded in a group Google Docs. This research provided us with five products with multiple positive and negative reviews. We then held an in-person meeting where we divided the work of sorting through these reviews into functional concepts from which to base the brainstorming session. Once the draw was over, a group meeting was held in the library where we organized ourselves to evaluate our areas of opportunity in relation to our teamwork and discuss how to carry out the "Team Design Ideation" activity.
 
@@ -353,7 +340,3 @@ From this concept drawing, a list of 100 areas of opportunity emerged. Since our
 After reviewing the top-ranked ideas and combining them in different ways, they came up with three product ideas. These were used as the basis for part 4. Hattie reviewed the groups initially created for step 3 to gain a better understanding when visually capturing the three product ideas in three different vector drawings. Finally, in step 5, Gael gathered all the information from the Google Docs where the process and results of all the previous steps were compiled and created a duplicate on our group's GitHub.
 
 
-Add your different product concepts stuff here
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
