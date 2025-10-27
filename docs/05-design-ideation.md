@@ -691,23 +691,6 @@ Prepares the next bag automatically
 
 
 
-### Step 5: Document your work
-
-Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font),
-
-
-
-* The process by which you ran your brainstorm session
-    * Who participated
-    * How did you meet
-    * How did you collect ideas (what tools did you use? who collected them?)
-    * Which project assignment(s) did you draw your list of requirements from?
-    * What other resources did you use to generate ideas?
-* How you grouped features
-    * How you applied rankings to top ideas
-
-	For this project, a brainstorming session was needed to generate input for three sketches of a self-locking trash can. The first step in brainstorming was to decide on a starting concept. From this initial conversation, ideas emerged such as a product that helps organize the home, a home cleaning device, and finally, a self-locking trash can. The idea we ultimately settled on was the one we ultimately chose.
-
 Once the concept was chosen, market research and market offerings were conducted. This research was conducted individually and online. All results were recorded in a group Google Docs. This research provided us with five products with multiple positive and negative reviews. We then held an in-person meeting where we divided the work of sorting through these reviews into functional concepts from which to base the brainstorming session. Once the draw was over, a group meeting was held in the library where we organized ourselves to evaluate our areas of opportunity in relation to our teamwork and discuss how to carry out the "Team Design Ideation" activity.
 
 From this concept drawing, a list of 100 areas of opportunity emerged. Since our group consisted of four members, we each chose five areas of opportunity that were relatively different from each other and deconstructed each one into five ways to solve or attack it. This left us with a list of 100 data points. Once step two was completed, we divided into subgroups to cover more in less time. The "subgroup" in charge of step three was Riley and Alessandro. They were in charge of collecting and categorizing the list of 100 data points into six groups. Once the 100 points were analyzed, Riley and Alessandro worked on forming groups or categories to encompass this data. Finally, the list was reduced to six groups, into which the data were divided according to their respective categories without repeating categories. Once this was completed, it was decided to rank each feature on a scale of 1 to 10. This was done by asking a third party, who was unfamiliar with the activity and/or product, and asking them to give a rating from 1 to 10 according to the respective category.
