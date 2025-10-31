@@ -6,3 +6,4 @@ The block diagram was designed with ease of connectivity in mind. Our product co
 
 <img width="3301" height="949" alt="Team207_Block_Diagram drawio (1)" src="https://github.com/user-attachments/assets/b71da8fd-f1be-4881-9682-fce9a911c409" />
 
+PDF available [here](https://github.com/user-attachments/files/23279292/Team207_Block_DiagramNew.drawio.pdf)
