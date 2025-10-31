@@ -11,7 +11,7 @@ Our team is an aspiring group of student engineers committed to learning and app
 
 ## Product Mission Statement
 
-Our mission is to support those families, individuals and businesses that wish to have better organization and control over their waste by giving them a product with multiple sensors and visual functions.
+Our smart trash can provides a safe and sanitary convenience for busy individuals, families, and businesses by automatically opening, detecting when it is full, and alerting the buyer when it’s time to take out the trash.
 
 ## Team Organization
 The team's organizational structure can be located in detail in the [appendix](https://asu-egr304-2025-f-207.github.io/Appendix/App-Team-Org/)
