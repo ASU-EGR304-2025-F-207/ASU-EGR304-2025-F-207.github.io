@@ -8,5 +8,5 @@ The block diagram was designed with ease of connectivity in mind. Our product co
 <img width="3301" height="984" alt="Team207_Block_Diagram drawio (2)" src="https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/Final_Team207_Block_Diagram.png" />
 
 
-PDF available [here](https://github.com/user-attachments/files/23279441/Team207_Block_Diagram.drawio.1.pdf)
+PDF available [here](https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/Final_Team207_Block_Diagram.pdf)
 
