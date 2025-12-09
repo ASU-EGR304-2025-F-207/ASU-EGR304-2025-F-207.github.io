@@ -5,9 +5,11 @@ tags:
 - tag2
 ---
 
-## Voices of the Customers Benchmarking 
+## User Needs Benchmarking 
 Summary:   
-  Our team decided on Usability, Performance, and Durability as the main categories for the user needs. Performance was chosen because many requirements relate to how effectively the product functions. This covers power efficiency, sensor accuracy, and reliability. Improvements here should focus on refining sensor calibration, reducing operational noise and consistency in automatic functions. Usability was selected because of several key needs for daily use. The product should ensure that it is easy to operate, assemble, and maintain. Durability was included because product longevity and structural strength are key to customer satisfaction. Addressing issues like flimsy materials, warping, and wear will require stronger components. Together, improvements across these three areas will result in a product that performs efficiently, is user friendly, and is reliable over time.
+  Our design process evolved as we organized user needs into three categories: Usability, Performance, and Durability. Initially, our requirements were broad, but as we worked on the block diagram and examined how each subsystem functioned, we had to make more precise decisions. Performance needs drove us to improve sensor accuracy, reduce noise, and enhance the reliability of our automatic features. Usability needs led us to focus on making the system easy to operate and assemble, which in turn influenced how we structured our connections and message flow. Durability issues helped us identify problems such as flimsy parts and potential wear, which led us to select stronger components. Overall, our process evolved from general ideas to a more organized and practical design that better aligns with how the product will be used in practice.
+
+  
 ## Top #6 Searches
 
 Keywords "Automatic Trash Can/Self Tying Trash Can"
@@ -292,5 +294,109 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 
 
 ## Ranking
+| Rank | Original # | Need | Type |
+|------|------------|------|------|
+| 1 | 43 | The product should reliably perform its intended functions | Explicit |
+| 2 | 55 | Function effectively | Explicit |
+| 3 | 90 | The product should support hands-free operation | Explicit |
+| 4 | 64 | Product has a motion sensor | Explicit |
+| 5 | 14 | The product’s sensors should only go off when desired | Explicit |
+| 6 | 38 | The product’s sensors should accurately detect intended triggers | Explicit |
+| 7 | 39 | The product’s sensors should work consistently | Explicit |
+| 8 | 45 | The sensors for the product should function reliably | Explicit |
+| 9 | 47 | The product’s internal mechanisms should operate dependably | Explicit |
+| 10 | 80 | Odor escapes when lid is open | Explicit |
+| 11 | 95 | The product should remain dependable over long-term use | Explicit |
+| 12 | 9 | Product should have a long lifespan, up to 10 years | Explicit |
+| 13 | 12 | Product should last longer than a few months | Explicit |
+| 14 | 3 | Product is not damaged | Explicit |
+| 15 | 42 | The product should be able to ship without damage | Explicit |
+| 16 | 60 | Lid does not fully open or seal | Explicit |
+| 17 | 78 | The lid fails to open | Explicit |
+| 18 | 85 | The product should smoothly complete its full motion range | Explicit |
+| 19 | 73 | The product’s hinge or motor fails to move properly | Explicit |
+| 20 | 62 | The product is partially functional but not fully working | Explicit |
+| 21 | 4 | Product is sturdy | Explicit |
+| 22 | 28 | The trash can is flimsy | Explicit |
+| 23 | 30 | Small, bendable construction reduces durability | Explicit |
+| 24 | 76 | Weak build quality with flexible plastic pieces | Explicit |
+| 25 | 29 | Should not warp | Explicit |
+| 26 | 48 | The product components should be solid and durable | Latent |
+| 27 | 74 | The product’s durability is below expectations | Explicit |
+| 28 | 20 | The product should be battery operated or plug into a power source | Explicit |
+| 29 | 51 | Both battery and wired power | Explicit |
+| 30 | 1 | The product is easy to recharge | Explicit |
+| 31 | 96 | The product should allow for convenient recharging or repowering | Latent |
+| 32 | 35 | The product should have a long battery life | Explicit |
+| 33 | 84 | The product should use affordable and accessible power options | Latent |
+| 34 | 19 | The product should be able to easily be powered | Latent |
+| 35 | 2 | The product uses D Batteries | Explicit |
+| 36 | 59 | Fails to charge properly | Explicit |
+| 37 | 71 | The product fails to receive electrical power | Explicit |
+| 38 | 11 | Product should allow easy replacement of contents | Explicit |
+| 39 | 81 | Bags should be simple to remove and replace | Explicit |
+| 40 | 67 | Installing new trash bags is tricky | Explicit |
+| 41 | 10 | Product should minimize manual steps | Latent |
+| 42 | 15 | Product should have intuitive design | Latent |
+| 43 | 87 | The product should be straightforward to troubleshoot | Latent |
+| 44 | 88 | The product should not require technical expertise to operate | Latent |
+| 45 | 83 | The product should include a manual override option | Explicit |
+| 46 | 93 | The product should provide a manual override for faulty sensors | Latent |
+| 47 | 36 | The product should let users recover from simple mistakes | Latent |
+| 48 | 46 | The product should respond quickly to user interaction | Latent |
+| 49 | 77 | Excessive operational noise | Explicit |
+| 50 | 58 | Produces noticeable noise during operation | Explicit |
+| 51 | 56 | Should avoid trapping air inside | Latent |
+| 52 | 7 | Product does not take up much space | Explicit |
+| 53 | 63 | Product is compact in size | Explicit |
+| 54 | 70 | The product’s small dimensions limit its practicality | Explicit |
+| 55 | 44 | The product should be appropriately sized for its purpose | Latent |
+| 56 | 22 | The product could benefit from a larger overall size | Explicit |
+| 57 | 66 | The product should be able to hold a greater volume | Explicit |
+| 58 | 18 | The product should not be too small to be used | Latent |
+| 59 | 52 | The product height could be increased for convenience | Latent |
+| 60 | 16 | The product should be clear in its sizing | Latent |
+| 61 | 5 | Product is aesthetically pleasing | Latent |
+| 62 | 31 | The product should be sleek | Latent |
+| 63 | 82 | The product should have a modern and refined look | Latent |
+| 64 | 21 | The product should be affordable | Latent |
+| 65 | 34 | The product should be priced competitively low | Latent |
+| 66 | 75 | The product does not justify its price | Latent |
+| 67 | 98 | The product should be as budget-friendly as possible | Latent |
+| 68 | 37 | The product should provide illumination | Explicit |
+| 69 | 24 | Good for bathroom use | Latent |
+| 70 | 25 | Good in pairs | Latent |
+| 71 | 26 | Good desk product | Latent |
+| 72 | 91 | The product should be resistant to pet interference | Latent |
+| 73 | 92 | The product should be safe for both animals and children nearby | Latent |
+| 74 | 94 | The product should operate reliably even when nearly full | Latent |
+| 75 | 72 | The product quality encourages repeat purchases | Latent |
+| 76 | 40 | The product should be energy efficient | Latent |
+| 77 | 86 | The product should allow simple part replacement or repair | Latent |
+| 78 | 97 | The product should be repairable without professional tools | Latent |
+| 79 | 100 | The documentation for the product should be thorough | Explicit |
+| 80 | 99 | The product should undergo testing to resolve issues before release | Latent |
+| 81 | 54 | Not a complete necessity | Latent |
+| 82 | 32 | The product should automatically perform as many functions as possible | Latent |
+| 83 | 50 | This product's function is complete | Explicit |
+| 84 | 41 | The product should remain functional over extended use | Latent |
+| 85 | 49 | The product should have low-cost, easily replaceable internal parts | Latent |
+| 86 | 53 | Product design should accommodate older customers | Latent |
+| 87 | 89 | The product should have an ergonomic height for use | Latent |
+| 88 | 8 | Product deodorizes itself | Explicit |
+| 89 | 13 | The product should not stain easily | Explicit |
+| 90 | 27 | The top doesn’t fit well together | Explicit |
+| 91 | 65 | Sensor is overly sensitive | Explicit |
+| 92 | 63 | Product is compact in size | Explicit |
+| 93 | 58 | Produces noticeable noise during operation | Explicit |
+| 94 | 66 | The product should be able to hold a greater volume | Explicit |
+| 95 | 72 | The product quality encourages repeat purchases | Latent |
+| 96 | 71 | The product fails to receive electrical power | Explicit |
+| 97 | 40 | The product should be energy efficient | Latent |
+| 98 | 100 | The documentation for the product should be thorough | Explicit |
+| 99 | 89 | The product should have an ergonomic height for use | Latent |
+| 100 | 97 | The product should be repairable without professional tools | Latent |
+
+
 ![304 User needs](https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48)
 ![304 User needs (1)](https://github.com/user-attachments/assets/8d16eb03-6f05-4828-995a-c72e57b834c6)
