@@ -76,7 +76,7 @@ Good in pairs.
 
 3.  ["Self sealing trash can"](https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
-![image caption](https://m.media-amazon.com/images/I/51C9GPk0i+L._AC_SX466_.jpg)
+![image caption](https://m.media-amazon.com/images/I/51C9GPk0i+Latent._AC_SX466_.jpg)
 
 * Price: $149.99
 * Vendor: Amazon
@@ -188,106 +188,106 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 
 ## List of 100 total needs statements
 
-1. The product is easy to recharge – E
-2. The product uses D Batteries – E
-3. Product is not damaged – E
-4. Product is sturdy – E
-5. Product is aesthetically pleasing – L
-6. Product is automatic – E
-7. Product does not take up much space – E
-8. Product deodorizes itself – E
-9. Product should have a long lifespan, up to 10 years – E
-10. Product should minimize manual steps – L
-11. Product should allow easy replacement of contents – E
-12. Product should last longer than a few months – E
-13. Product should not stain easily – E
-14. The product’s sensors should only go off when desired – E
-15. Product should have intuitive design – L
-16. The product should be clear in its sizing – L
-17. The product should be easy to assemble for the customer – E
-18. The product should not be too small to be used – L
-19. The product should be able to easily be powered – L
-20. The product should be battery operated or plug into a power source – E
-21. The product should be affordable – L
-22. The product is too small – E
-23. The product has low capacity – E
-24. Good for bathroom use – L
-25. Good in pairs – L
-26. Good desk product – L
-27. The top doesn’t fit well together – E
-28. The trash can is flimsy – E
-29. Should not warp – E
-30. Small, flimsy and bendable – E
-31. The product should be sleek – L
-32. The product should automatically do as many tasks as possible – L
-33. The product’s opening should be wide – E
-34. The product should be priced as low as possible – L
-35. The product should have a long battery life – E
-36. The product should allow the user to correct basic mistakes – L
-37. The product should provide illumination – E
-38. The product’s sensors should be sensitive enough to properly detect what they are looking for – E
-39. The product’s sensors should work consistently – E
-40. The product should be power efficient – L
-41. The product should last for as long as possible – L
-42. The product should be able to ship without damage – E
-43. The product should be able to perform its functions reliably – E
-44. The product should be sized properly for its function – L
-45. The sensors for the product should function reliably – E
-46. The product should promptly respond to the user – L
-47. The product should have its mechanisms work reliably – E
-48. The product should not have flimsy components – L
-49. The product should have easily replaceable and cheap internals, if they need to be replaced at all – L
-50. This product's function is complete – E
-51. Both battery and wired power – E
-52. Could be taller – L
-53. Good for older customers – L
-54. Not a complete necessity – L
-55. Function effectively – E
-56. Without air trapping – L
-57. Pricey – E
-58. Is loud somewhere in the process – E
-59. Not charging – E
-60. Not sealing or opening all the way – E
-61. Not an obvious fix – L
-62. Not working but halfway functional – E
-63. Product is small – E
-64. Product has a motion sensor – E
-65. Sensor is too sensitive – E
-66. Product should be able to hold more content – E
-67. Installing new trash bags is tricky – E
-68. The product's lid works as intended – E
-69. Motion sensors are easy to use and have no problems – E
-70. The product is small – E
-71. The product does not receive power – E
-72. The product is good enough to buy a second – L
-73. The product’s hinge/servomotor does not work properly – E
-74. The product’s durability was way less than what’s anticipated – E
-75. The product is not worth the price – L
-76. Flimsy build and plastic pieces – E
-77. Noise – E
-78. The product doesn’t open – E
-79. Lid mechanisms should be smooth – L
-80. Odor leaks when lid is open – E
-81. Bags should be easily removed and replaced – E
-82. The product should appear modern – L
-83. The product should have a manual backup – E
-84. The product should use convenient and cheap methods of powering itself – L
-85. The product should reliably move through its full range of motion – E
-86. The product should be able to easily be repaired or have parts replaced – L
-87. The product should be easy to troubleshoot – L
-88. The product should not require strong technical knowledge to use – L
-89. The product should be made at a comfortable height – L
-90. The product should be able to be hands-free – E
-91. The product should be safe from pets – L
-92. The product should be safe for animals or children that are around it – L
-93. The product should have a way to bypass a malfunctioning sensor – L
-94. The product should be able to handle full or overfull capacity – L
-95. The product should work reliably for a long time – E
-96. The product should be able to be conveniently repowered – L
-97. The product should be able to be fixed easily – L
-98. The product should be as cheap as possible – L
-99. The product should be tested and have common issues fixed before shipping – L
-100. The documentation for the product should be thorough – E
+1. The product is easy to recharge – Explicit
+2. The product uses D Batteries – Explicit
+3. Product is not damaged – Explicit
+4. Product is sturdy – Explicit
+5. Product is aesthetically pleasing – Latent
+6. Product is automatic – Explicit
+7. Product does not take up much space – Explicit
+8. Product deodorizes itself – Explicit
+9. Product should have a long lifespan, up to 10 years – Explicit
+10. Product should minimize manual steps – Latent
+11. Product should allow easy replacement of contents – Explicit
+12. Product should last longer than a few months – Explicit
+13. Product should not stain easily – Explicit
+14. The product’s sensors should only go off when desired – Explicit
+15. Product should have intuitive design – Latent
+16. The product should be clear in its sizing – Latent
+17. The product should be easy to assemble for the customer – Explicit
+18. The product should not be too small to be used – Latent
+19. The product should be able to easily be powered – Latent
+20. The product should be battery operated or plug into a power source – Explicit
+21. The product should be affordable – Latent
+22. The product is too small – Explicit
+23. The product has low capacity – Explicit
+24. Good for bathroom use – Latent
+25. Good in pairs – Latent
+26. Good desk product – Latent
+27. The top doesn’t fit well together – Explicit
+28. The trash can is flimsy – Explicit
+29. Should not warp – Explicit
+30. Small, flimsy and bendable – Explicit
+31. The product should be sleek – Latent
+32. The product should automatically do as many tasks as possible – Latent
+33. The product’s opening should be wide – Explicit
+34. The product should be priced as low as possible – Latent
+35. The product should have a long battery life – Explicit
+36. The product should allow the user to correct basic mistakes – Latent
+37. The product should provide illumination – Explicit
+38. The product’s sensors should be sensitive enough to properly detect what they are looking for – Explicit
+39. The product’s sensors should work consistently – Explicit
+40. The product should be power efficient – Latent
+41. The product should last for as long as possible – Latent
+42. The product should be able to ship without damage – Explicit
+43. The product should be able to perform its functions reliably – Explicit
+44. The product should be sized properly for its function – Latent
+45. The sensors for the product should function reliably – Explicit
+46. The product should promptly respond to the user – Latent
+47. The product should have its mechanisms work reliably – Explicit
+48. The product should not have flimsy components – Latent
+49. The product should have easily replaceable and cheap internals, if they need to be replaced at all – Latent
+50. This product's function is complete – Explicit
+51. Both battery and wired power – Explicit
+52. Could be taller – Latent
+53. Good for older customers – Latent
+54. Not a complete necessity – Latent
+55. Function effectively – Explicit
+56. Without air trapping – Latent
+57. Pricey – Explicit
+58. Is loud somewhere in the process – Explicit
+59. Not charging – Explicit
+60. Not sealing or opening all the way – Explicit
+61. Not an obvious fix – Latent
+62. Not working but halfway functional – Explicit
+63. Product is small – Explicit
+64. Product has a motion sensor – Explicit
+65. Sensor is too sensitive – Explicit
+66. Product should be able to hold more content – Explicit
+67. Installing new trash bags is tricky – Explicit
+68. The product's lid works as intended – Explicit
+69. Motion sensors are easy to use and have no problems – Explicit
+70. The product is small – Explicit
+71. The product does not receive power – Explicit
+72. The product is good enough to buy a second – Latent
+73. The product’s hinge/servomotor does not work properly – Explicit
+74. The product’s durability was way less than what’s anticipated – Explicit
+75. The product is not worth the price – Latent
+76. Flimsy build and plastic pieces – Explicit
+77. Noise – Explicit
+78. The product doesn’t open – Explicit
+79. Lid mechanisms should be smooth – Latent
+80. Odor leaks when lid is open – Explicit
+81. Bags should be easily removed and replaced – Explicit
+82. The product should appear modern – Latent
+83. The product should have a manual backup – Explicit
+84. The product should use convenient and cheap methods of powering itself – Latent
+85. The product should reliably move through its full range of motion – Explicit
+86. The product should be able to easily be repaired or have parts replaced – Latent
+87. The product should be easy to troubleshoot – Latent
+88. The product should not require strong technical knowledge to use – Latent
+89. The product should be made at a comfortable height – Latent
+90. The product should be able to be hands-free – Explicit
+91. The product should be safe from pets – Latent
+92. The product should be safe for animals or children that are around it – Latent
+93. The product should have a way to bypass a malfunctioning sensor – Latent
+94. The product should be able to handle full or overfull capacity – Latent
+95. The product should work reliably for a long time – Explicit
+96. The product should be able to be conveniently repowered – Latent
+97. The product should be able to be fixed easily – Latent
+98. The product should be as cheap as possible – Latent
+99. The product should be tested and have common issues fixed before shipping – Latent
+100. The documentation for the product should be thorough – Explicit
 
 ## Ranking
 ![304 User needs](https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48)
