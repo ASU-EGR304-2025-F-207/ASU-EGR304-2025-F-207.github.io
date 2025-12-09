@@ -95,7 +95,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#voices-of-the-customers-benchmarking" class="md-skip">
+        <a href="#user-needs-benchmarking" class="md-skip">
           Skip to content
         </a>
       
@@ -514,9 +514,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#voices-of-the-customers-benchmarking" class="md-nav__link">
+  <a href="#user-needs-benchmarking" class="md-nav__link">
     <span class="md-ellipsis">
-      Voices of the Customers Benchmarking
+      User Needs Benchmarking
     </span>
   </a>
   
@@ -875,9 +875,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#voices-of-the-customers-benchmarking" class="md-nav__link">
+  <a href="#user-needs-benchmarking" class="md-nav__link">
     <span class="md-ellipsis">
-      Voices of the Customers Benchmarking
+      User Needs Benchmarking
     </span>
   </a>
   
@@ -1056,9 +1056,9 @@
   
 
 
-<h2 id="voices-of-the-customers-benchmarking">Voices of the Customers Benchmarking</h2>
+<h2 id="user-needs-benchmarking">User Needs Benchmarking</h2>
 <p>Summary: <br>
-  Our team decided on Usability, Performance, and Durability as the main categories for the user needs. Performance was chosen because many requirements relate to how effectively the product functions. This covers power efficiency, sensor accuracy, and reliability. Improvements here should focus on refining sensor calibration, reducing operational noise and consistency in automatic functions. Usability was selected because of several key needs for daily use. The product should ensure that it is easy to operate, assemble, and maintain. Durability was included because product longevity and structural strength are key to customer satisfaction. Addressing issues like flimsy materials, warping, and wear will require stronger components. Together, improvements across these three areas will result in a product that performs efficiently, is user friendly, and is reliable over time.</p>
+  Our design process evolved as we organized user needs into three categories: Usability, Performance, and Durability. Initially, our requirements were broad, but as we worked on the block diagram and examined how each subsystem functioned, we had to make more precise decisions. Performance needs drove us to improve sensor accuracy, reduce noise, and enhance the reliability of our automatic features. Usability needs led us to focus on making the system easy to operate and assemble, which in turn influenced how we structured our connections and message flow. Durability issues helped us identify problems such as flimsy parts and potential wear, which led us to select stronger components. Overall, our process evolved from general ideas to a more organized and practical design that better aligns with how the product will be used in practice.</p>
 <h2 id="top-6-searches">Top #6 Searches</h2>
 <p>Keywords "Automatic Trash Can/Self Tying Trash Can"</p>
 <p>Search Results Links :
@@ -1541,6 +1541,618 @@ Also a new option for buying diaper pails</li>
 <li>The documentation for the product should be thorough – Explicit</li>
 </ol>
 <h2 id="ranking">Ranking</h2>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Original #</th>
+<th>Need</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>43</td>
+<td>The product should reliably perform its intended functions</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>2</td>
+<td>55</td>
+<td>Function effectively</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>3</td>
+<td>90</td>
+<td>The product should support hands-free operation</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>4</td>
+<td>64</td>
+<td>Product has a motion sensor</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>5</td>
+<td>14</td>
+<td>The product’s sensors should only go off when desired</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>6</td>
+<td>38</td>
+<td>The product’s sensors should accurately detect intended triggers</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>7</td>
+<td>39</td>
+<td>The product’s sensors should work consistently</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>8</td>
+<td>45</td>
+<td>The sensors for the product should function reliably</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>9</td>
+<td>47</td>
+<td>The product’s internal mechanisms should operate dependably</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>10</td>
+<td>80</td>
+<td>Odor escapes when lid is open</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>11</td>
+<td>95</td>
+<td>The product should remain dependable over long-term use</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>12</td>
+<td>9</td>
+<td>Product should have a long lifespan, up to 10 years</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>13</td>
+<td>12</td>
+<td>Product should last longer than a few months</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>14</td>
+<td>3</td>
+<td>Product is not damaged</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>15</td>
+<td>42</td>
+<td>The product should be able to ship without damage</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>16</td>
+<td>60</td>
+<td>Lid does not fully open or seal</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>17</td>
+<td>78</td>
+<td>The lid fails to open</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>18</td>
+<td>85</td>
+<td>The product should smoothly complete its full motion range</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>19</td>
+<td>73</td>
+<td>The product’s hinge or motor fails to move properly</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>20</td>
+<td>62</td>
+<td>The product is partially functional but not fully working</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>21</td>
+<td>4</td>
+<td>Product is sturdy</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>22</td>
+<td>28</td>
+<td>The trash can is flimsy</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>23</td>
+<td>30</td>
+<td>Small, bendable construction reduces durability</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>24</td>
+<td>76</td>
+<td>Weak build quality with flexible plastic pieces</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>25</td>
+<td>29</td>
+<td>Should not warp</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>26</td>
+<td>48</td>
+<td>The product components should be solid and durable</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>27</td>
+<td>74</td>
+<td>The product’s durability is below expectations</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>28</td>
+<td>20</td>
+<td>The product should be battery operated or plug into a power source</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>29</td>
+<td>51</td>
+<td>Both battery and wired power</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1</td>
+<td>The product is easy to recharge</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>31</td>
+<td>96</td>
+<td>The product should allow for convenient recharging or repowering</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>32</td>
+<td>35</td>
+<td>The product should have a long battery life</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>33</td>
+<td>84</td>
+<td>The product should use affordable and accessible power options</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>34</td>
+<td>19</td>
+<td>The product should be able to easily be powered</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>35</td>
+<td>2</td>
+<td>The product uses D Batteries</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>36</td>
+<td>59</td>
+<td>Fails to charge properly</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>37</td>
+<td>71</td>
+<td>The product fails to receive electrical power</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>38</td>
+<td>11</td>
+<td>Product should allow easy replacement of contents</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>39</td>
+<td>81</td>
+<td>Bags should be simple to remove and replace</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>40</td>
+<td>67</td>
+<td>Installing new trash bags is tricky</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>41</td>
+<td>10</td>
+<td>Product should minimize manual steps</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>42</td>
+<td>15</td>
+<td>Product should have intuitive design</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>43</td>
+<td>87</td>
+<td>The product should be straightforward to troubleshoot</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>44</td>
+<td>88</td>
+<td>The product should not require technical expertise to operate</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>45</td>
+<td>83</td>
+<td>The product should include a manual override option</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>46</td>
+<td>93</td>
+<td>The product should provide a manual override for faulty sensors</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>47</td>
+<td>36</td>
+<td>The product should let users recover from simple mistakes</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>48</td>
+<td>46</td>
+<td>The product should respond quickly to user interaction</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>49</td>
+<td>77</td>
+<td>Excessive operational noise</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>50</td>
+<td>58</td>
+<td>Produces noticeable noise during operation</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>51</td>
+<td>56</td>
+<td>Should avoid trapping air inside</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>52</td>
+<td>7</td>
+<td>Product does not take up much space</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>53</td>
+<td>63</td>
+<td>Product is compact in size</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>54</td>
+<td>70</td>
+<td>The product’s small dimensions limit its practicality</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>55</td>
+<td>44</td>
+<td>The product should be appropriately sized for its purpose</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>56</td>
+<td>22</td>
+<td>The product could benefit from a larger overall size</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>57</td>
+<td>66</td>
+<td>The product should be able to hold a greater volume</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>58</td>
+<td>18</td>
+<td>The product should not be too small to be used</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>59</td>
+<td>52</td>
+<td>The product height could be increased for convenience</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>60</td>
+<td>16</td>
+<td>The product should be clear in its sizing</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>61</td>
+<td>5</td>
+<td>Product is aesthetically pleasing</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>62</td>
+<td>31</td>
+<td>The product should be sleek</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>63</td>
+<td>82</td>
+<td>The product should have a modern and refined look</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>64</td>
+<td>21</td>
+<td>The product should be affordable</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>65</td>
+<td>34</td>
+<td>The product should be priced competitively low</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>66</td>
+<td>75</td>
+<td>The product does not justify its price</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>67</td>
+<td>98</td>
+<td>The product should be as budget-friendly as possible</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>68</td>
+<td>37</td>
+<td>The product should provide illumination</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>69</td>
+<td>24</td>
+<td>Good for bathroom use</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>70</td>
+<td>25</td>
+<td>Good in pairs</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>71</td>
+<td>26</td>
+<td>Good desk product</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>72</td>
+<td>91</td>
+<td>The product should be resistant to pet interference</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>73</td>
+<td>92</td>
+<td>The product should be safe for both animals and children nearby</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>74</td>
+<td>94</td>
+<td>The product should operate reliably even when nearly full</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>75</td>
+<td>72</td>
+<td>The product quality encourages repeat purchases</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>76</td>
+<td>40</td>
+<td>The product should be energy efficient</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>77</td>
+<td>86</td>
+<td>The product should allow simple part replacement or repair</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>78</td>
+<td>97</td>
+<td>The product should be repairable without professional tools</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>79</td>
+<td>100</td>
+<td>The documentation for the product should be thorough</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>80</td>
+<td>99</td>
+<td>The product should undergo testing to resolve issues before release</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>81</td>
+<td>54</td>
+<td>Not a complete necessity</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>82</td>
+<td>32</td>
+<td>The product should automatically perform as many functions as possible</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>83</td>
+<td>50</td>
+<td>This product's function is complete</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>84</td>
+<td>41</td>
+<td>The product should remain functional over extended use</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>85</td>
+<td>49</td>
+<td>The product should have low-cost, easily replaceable internal parts</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>86</td>
+<td>53</td>
+<td>Product design should accommodate older customers</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>87</td>
+<td>89</td>
+<td>The product should have an ergonomic height for use</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>88</td>
+<td>8</td>
+<td>Product deodorizes itself</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>89</td>
+<td>13</td>
+<td>The product should not stain easily</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>90</td>
+<td>27</td>
+<td>The top doesn’t fit well together</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>91</td>
+<td>65</td>
+<td>Sensor is overly sensitive</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>92</td>
+<td>63</td>
+<td>Product is compact in size</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>93</td>
+<td>58</td>
+<td>Produces noticeable noise during operation</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>94</td>
+<td>66</td>
+<td>The product should be able to hold a greater volume</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>95</td>
+<td>72</td>
+<td>The product quality encourages repeat purchases</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>96</td>
+<td>71</td>
+<td>The product fails to receive electrical power</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>97</td>
+<td>40</td>
+<td>The product should be energy efficient</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>98</td>
+<td>100</td>
+<td>The documentation for the product should be thorough</td>
+<td>Explicit</td>
+</tr>
+<tr>
+<td>99</td>
+<td>89</td>
+<td>The product should have an ergonomic height for use</td>
+<td>Latent</td>
+</tr>
+<tr>
+<td>100</td>
+<td>97</td>
+<td>The product should be repairable without professional tools</td>
+<td>Latent</td>
+</tr>
+</tbody>
+</table>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48" data-desc-position="bottom"><img alt="304 User needs" src="https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48"></a>
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/8d16eb03-6f05-4828-995a-c72e57b834c6" data-desc-position="bottom"><img alt="304 User needs (1)" src="https://github.com/user-attachments/assets/8d16eb03-6f05-4828-995a-c72e57b834c6"></a></p>
 
