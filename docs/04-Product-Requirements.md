@@ -1,89 +1,105 @@
 # Product Requirements
 
-
 ## Project Objective
 
 This project aims to develop and explore the capabilities of automating simple household chores to provide greater convenience to customers and enhance the user experience when using an automatic trash can. The goal is to enter a niche in the market for customers seeking convenient solutions to everyday tasks, generate enough sales to turn a profit, and encourage consumers to move away from traditional trash cans toward more innovative, higher-end products. Suppose the product can be priced competitively with standard trash cans. In that case, it is estimated that at least 10% of the target customer group could become interested in this product over other competitors.
 
-
 ## Stakeholders
 
+**Primary Users**
+- Busy adults who want a convenient, hands-free trash can.
+- Seniors or people with limited mobility who benefit from touch-free operation.
+- Families who want a cleaner and safer kitchen environment.  
+These groups influence requirements related to accessibility, sensor detection, lid operation, and fullness alerts.
 
+**Household Purchasers**
+- People who make buying decisions for their home.
+- Focus on price, reliability, durability, and appearance.  
+Their preferences affect product cost, size, and design considerations.
 
-* **Target group** Middle and high income homeowners or renters of any age who are constantly busy or struggle to perform household tasks. The main benefit sought is convenience.
-* **Target purchaser** Target group profile with special attention to busy young adults and working professionals.
-* **Customer service** Prefers products that are easy to repair and troubleshoot in order to further maintain the goal of providing convenience.
-* **Retailers** Prefer products that can be easily stored and packaged, as well as being durable enough to survive shipping without damage, and to withstand various environmental conditions, such as high temperatures, humidity, and elevation, while also being resistant to vandalism and theft.
+**Retailers**
+- Stores, warehouses, and shipping partners.
+- Need packaging that protects electronics and a form factor suitable for shelves and shipping standards.  
+Their needs influence product durability and size.
 
+**Customer Support and Repair**
+- Handle troubleshooting and repairs after purchase.
+- Prefer designs with clear labeling, accessible PCBs, and replaceable modules.  
+Their input influences modularity and maintenance considerations.
 
 ## Use Cases
 
 **User Story #1: Harriet**
 
-Harriet is a healthy 83-year-old retired teacher who enjoys spending her days engaging in light activities, such as puzzles and making simple crafts. She moves around her home comfortably and maintains her daily routines. One of her regular chores is taking out the trash. Her new trash can features a motion sensor, so the lid opens automatically when she waves her hand or approaches it. This feature makes it easier for her to throw things away without needing to touch the lid or bend too much. The can also have a fullness sensor that lets her know when it’s time to take the trash out. Helping her to remind herself. This small improvement allows her to maintain her house with less effort.
+Harriet is a healthy 56-year-old retired teacher who enjoys light activities such as puzzles and crafts. She moves comfortably around her home and performs daily chores, including taking out the trash. A touch-free trash can would allow her to throw away items without bending excessively. The detection system should remind her when the trash is nearly full, helping her manage household tasks with less effort.
+
+**Implications for Requirements**
+- Lid operation must be safe and predictable.
+- Fullness detection should trigger before the bag becomes too heavy.
+- Indicators must be clear and easy to understand.
 
 **User Story #2: Peter**
 
-Peter is a stay at home dad who loves spending time in the kitchen cooking for his family. He enjoys trying new recipes and preparing fresh meals every day. Often, his hands are full; whether he’s chopping vegetables, stirring a pot, or holding a mixing bowl. His trash can’s motion sensor makes it easy for him to keep things clean and efficient while cooking. When Peter waves his hand near the lid, it opens automatically, allowing him to dispose of scraps and waste without touching the can or making a mess. The fullness sensor also alerts him when the trash is getting close to full, so he knows when it’s time to take it out. This simple design helps Peter maintain a tidy, organized kitchen while focusing on what he enjoys most: cooking for his family.
+Peter is a stay-at-home dad who cooks frequently and often has his hands full. A touch-free trash can allows him to dispose of scraps efficiently without interrupting his cooking workflow. Fullness detection should prevent overflow during busy kitchen use.
 
+**Implications for Requirements**
+- Lid must open quickly (0.8–1.5 seconds).
+- Sensors must function even when hands are partially obstructed or messy.
+- Fullness detection must prevent overflow.
 
 ## Aspects
 
-The new product design will be based on existing automatic trash cans on the market, with improvements guided by the following prioritized requirements. P1–P10 represent the priority level of each requirement, with P10 being the highest.
-
-
+The design is guided by the following prioritized requirements. P1–P10 represent the priority level, with P10 being the highest.
 
 * **Product Design**
-    * 1.1 The product shall have a small form factor while still being able to hold as much content as possible. (P7)
-    * 1.2 The product shall be sleek and appealing to look at in order to fit the aesthetic of different types of households. (P6)
-    * 1.3 The product shall be affordably priced so more households will have access to the product (P9)
-    * 1.4 The product shall be durable so that it can withstand some abuse and still retain its functionality. (P10)
-    * 1.5 The product shall make it easy for the user to replace and secure a standard trash bag. (P10)
+    * 1.1 External dimensions no larger than 40 cm × 30 cm × 60 cm while holding at least 13 gallons (50 liters). (P7)
+    * 1.2 Maintain a smooth, modern appearance compatible with at least three common household color schemes. (P6)
+    * 1.3 Retail price shall not exceed $80 to ensure affordability. (P9)
+    * 1.4 Withstand a 0.5-meter drop without breaking or losing lid alignment, tested 10 times. (P10)
+    * 1.5 Trash bag replaceable in no more than 2 steps and within 30 seconds. (P10)
+
 * **Functionality**
-    * 2.1 The product shall be equipped with a motion sensor to open only when the user wants to throw some garbage away. (P10)
-    * 2.2 The product shall include a fullness sensor that detects when the trash can is nearing maximum capacity. (P9)
-    * 2.3 The product shall notify the user (via light or sound indicator) when the can is full and the bag needs to be replaced. (P8)
-    * 2.4 The product shall be able to hold a battery charge for long periods of time. (P4)
-    * 2.5 The product will be able to keep functionality while plugged into an outlet. (P10)
-    * 2.6 The product shall minimize odor exposure by ensuring the lid remains securely closed when not in use. (P7)
+    * 2.1 Motion sensor shall detect hand/object movement within 25 ± 5 cm and trigger lid opening within 1.0 ± 0.2 seconds. (P10)
+    * 2.2 Fullness sensor shall detect when trash reaches 90–95% of maximum capacity. (P9)
+    * 2.3 Notify the user within 1 second when fullness reaches 90–95%. (P8)
+    * 2.4 Maintain battery operation for at least 7 days before recharge is required. (P4)
+    * 2.5 Functionality shall be retained when plugged into an outlet. (P10)
+    * 2.6 Lid shall limit odor exposure to no more than 10% of detectable smell outside the trash can. (P7)
 
 ## Requirement Criteria Specifications
 
-* **Convenience / Automation**   
-   * The lid shall open within 0.8–1.5 seconds of detecting motion approximately 20–30 cm above the sensor.
-   * The sensor shall reliably detect hand movement or object motion with a minimum accuracy of 95%.
-   * The trash can's lid shall automatically close 2–4 seconds after motion is no longer detected.
-   * The fullness sensor shall accurately indicate when the trash level has reached 90–95% capacity, prompting the user to replace the bag.
+* **Convenience / Automation**
+   * Lid shall open within 0.8–1.5 seconds of detecting motion 20–30 cm above the sensor.
+   * Sensor shall detect motion with a minimum accuracy of 95%.
+   * Lid shall automatically close 2–4 seconds after motion is no longer detected.
+   * Fullness sensor shall indicate 90–95% capacity.
 
-* **User Experience**   
-   * The lid’s opening and closing operations shall not exceed 45 decibels at a distance of 1 meter (roughly the sound of a quiet refrigerator).
-   * The indicator system (light and/or sound) shall clearly signal when the can is full or requires maintenance, and remain visible/audible under typical indoor lighting and noise conditions.
-   * The trash can shall be designed for easy bag replacement, requiring no more than two simple steps to insert or remove a standard trash bag.
-   * The product shall include an optional manual open button for accessibility or when the motion sensor is deactivated.
-   * The lid mechanism shall be somewhat slow, smooth, and safe, preventing finger pinching or sudden closure.
+* **User Experience**
+   * Lid operations shall not exceed 45 decibels at 1 meter.
+   * Indicators must remain visible/audible under typical indoor lighting/noise.
+   * Trash bag replacement requires no more than 2 steps.
+   * Optional manual open button shall be included.
+   * Lid mechanism shall operate at 2–3 seconds per cycle to prevent accidents.
 
-* **Market Competitiveness**   
-   * The cost of production (including components, assembly, and packaging) shall not exceed 50–60% of the retail sale price to maintain profitability.
-   * The design shall be compatible with standard 13-gallon (50-liter) trash bags to reduce customer friction and improve adoption.
+* **Market Competitiveness**
+   * Production cost shall not exceed 50–60% of retail price.
+   * Compatible with standard 13-gallon (50-liter) bags.
 
-*  **Durability / Reliability**   
-    * The exterior and lid shall withstand minor impacts (such as tipping over or being bumped) without breaking or losing alignment.
-    * The electronics compartment shall be water-resistant (minimum IPX3 rating) to protect against splashes and light cleaning.
-    * The product shall resist grease buildup and dust accumulation, ensuring sensors remain operational for at least 12 months without manual cleaning.
-
+* **Durability / Reliability**
+   * Exterior and lid shall withstand a 2 kg impact at 0.5 meters without misalignment.
+   * Electronics compartment shall be water-resistant to IPX3.
+   * Sensors shall operate for at least 12 months without manual cleaning.
 
 ## Open Questions
 
-* Can the product be designed to fit and operate with standard-sized trash bags available in most households?
-* Can the sensing and lid mechanisms be adapted to work in larger models while maintaining performance and cost efficiency?
-* How can we ensure the motion sensor remains responsive and accurate in different lighting conditions, such as bright kitchens or dimly lit rooms?
-* What is the optimal sensor distance to balance responsiveness with energy efficiency and prevent accidental lid openings?
-* How long should the battery life last between charges, and should the product include low-battery indicators?
-* Can the trash can be designed to be easily cleaned, particularly around the sensor and lid areas?
-* Should the product include an optional manual override (e.g., a button to open the lid) in case sensors or power fail?
-* Are there any safety concerns (such as finger pinching or accidental lid closures) that need to be addressed in the mechanical design?
-* Can the product’s sensor system be software-upgradable or adjusted through firmware to improve detection accuracy or add new features?
-* Should we explore sustainability options, such as recyclable materials or energy-efficient components, to appeal to eco-conscious consumers?
-* What is the expected lifespan of the product, and how can we design for easy repair or part replacement to extend usability and reduce waste?
-
-
+* Can the product fit standard-sized trash bags in most households?
+* Can sensing and lid mechanisms scale for larger models while maintaining efficiency?
+* How to ensure sensor accuracy under different lighting conditions?
+* What is the optimal sensor distance to balance responsiveness and energy efficiency?
+* How long should battery life last between charges? Should low-battery indicators be included?
+* Can the trash can be easily cleaned, especially around sensors and lid?
+* Should a manual override be included for sensor/power failure?
+* Are there safety concerns like finger pinching or accidental lid closures?
+* Can the sensor system be software-upgradable to improve detection or add features?
+* Should recyclable or energy-efficient components be considered for sustainability?
+* What is the expected lifespan, and how can the product be designed for easy repair or replacement?

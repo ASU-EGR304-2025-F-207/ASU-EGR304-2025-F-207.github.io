@@ -6,13 +6,14 @@ tags:
 ---
 
 ## Voices of the Customers Benchmarking 
-
+Summary:   
+  Our team decided on Usability, Performance, and Durability as the main categories for the user needs. Performance was chosen because many requirements relate to how effectively the product functions. This covers power efficiency, sensor accuracy, and reliability. Improvements here should focus on refining sensor calibration, reducing operational noise and consistency in automatic functions. Usability was selected because of several key needs for daily use. The product should ensure that it is easy to operate, assemble, and maintain. Durability was included because product longevity and structural strength are key to customer satisfaction. Addressing issues like flimsy materials, warping, and wear will require stronger components. Together, improvements across these three areas will result in a product that performs efficiently, is user friendly, and is reliable over time.
 ## Top #6 Searches
 
-Keywords "Autamtic Trash Can/Self Tying Trash Can"
+Keywords "Automatic Trash Can/Self Tying Trash Can"
 
 Search Results Links :
-1. ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-r/)
+1. ["Automatic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-r/)
 2. ["Self tying trash can"](https://www.walmart.com/ip/Fdelink-Kitchen-Cleaning-Supplies-Self-Sealing-and-Self-Changing-4-22-Gallon-Trash-Can-Automatic-Open-Lid-and-Mo-Trash-Can-White/5833950909 )
 3. ["Self sealing trash can"](https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 4. ["Touchless smart trash can self sealing"](https://www.airdeertech.com/products/self-sealing-smart-trash-can-a1)
@@ -22,7 +23,7 @@ Search Results Links :
 
 ## Selected Products
 
-1.  ["Autamtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-rr)
+1.  ["Automtic Trash can"](https://www.homedepot.com/p/iTouchless-13-Gal-49-Liter-Stainless-Steel-Household-Metal-Trash-Can-with-Sensor-Lid-and-Odor-Filter-ITOS13B/321125838?source=shoppingads&locale=en-US&srsltid=AfmBOopeYFNOVLYmrg3CLlyCKCLz-2mrP7Lz3xAoh4_K1eqS1jwMWd2K4dE#product-section-rr)
 
 ![image caption](https://images.thdstatic.com/productImages/7fc567df-0ebd-454c-9887-0e0cd3ba4f6e/svn/itouchless-indoor-trash-cans-itos13b-64_145.jpg)
 
@@ -30,7 +31,7 @@ Search Results Links :
 * Vendor: Amazon
 * Description: 13 Gal. / 49 Liter Stainless Steel Household Metal Trash Can with Sensor Lid and Odor Filter
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -38,7 +39,7 @@ Search Results Links :
 | “The product description states 13 gallon however, the actual size is much smaller. I would have returned the item due to the ridiculous size difference but my husband had already torn the box and Home Depot stated I couldn’t return it without the box. It was a project just to assemble the trash can as well. Too many tiny screws!!!” | The product should be clear in its sizing,  The product should be easy to assemble for the customer,  The product should be easy to assemble for the customer |
 | “NOT WORTH THE PRICE. I never ordered a trash bin before so I wasn't entirely sure what to expect. I assumed that a 13 gallon was the average size for kitchen trash bins but this just seems extremely small to me. I made this purchase knowing that it was motion sensing and odorless technology so I expected it to either be battery operated or plug - in. It is plug in... But you have to purchase the AC adapter separately as well as everything else that makes it "techy". So for the price I paid I just received a regular trash bin that I have to manually open and deal with smells unless I buy the rest of the kit. I'll be returning this as soon as possible and I will purchase a regular trash bin instead for much cheaper. Lesson learned.”                |  The product should not be too small to be used,   The product should be able to easily be powered,  The product should be battery operated or plug into a power source.  The product should be affordable |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -55,7 +56,7 @@ Search Results Links :
 * Vendor: Walmart
 * Description: Fdelink Kitchen Cleaning Supplies Self-Sealing and Self-Changing 4.22 Gallon Trash Can Automatic Open Lid and Mo Trash Can (White)
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -65,7 +66,7 @@ Good in pairs.
  |
 | “I thought it would be bigger, cute desk trash can though!.”                |  Good desk product |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -82,7 +83,7 @@ Good in pairs.
 * Vendor: Amazon
 * Description: Automatic Trash Can, 4 Gallon Self Sealing and Self-Changing Smart Trash Can, Motion Sensor, Touchless Garbage can with lid for Kitchen Bathroom Bedroom, 6 Refill Rings(A1, Black Line)
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -90,7 +91,7 @@ Good in pairs.
 | “I really love this garbage can. Once I figured out what “full” looks like for the automatic sealing mechanism, it’s been everything I hoped for. A helpful tip: if the bag doesn’t cut cleanly after sealing, it’s probably slightly overfilled—just press down the top a bit manually, and it should work perfectly.    One of the best features is the rechargeable battery. I honestly forget it even needs charging because it lasts for months—I think it’s been at least 3 months since the last charge.   The lights inside the can are a cute touch, though they’re more for novelty than practical use. I did knock off one star because the motion sensor isn’t quite sensitive enough. I usually have to wave my hand right up close—or even touch it—to get the lid to open. Overall, it’s a fantastic product with smart features and a sleek design. Just wish the motion sensor worked a little better!” | The product should have a long battery life.  The product should allow the user to correct basic mistakes.  The product should provide illumination.  The product’s sensors should be sensitive enough to properly detect what they are looking for. |
 | “Had this trash can for well over a year now. So much better than Simple Human. Love that out has an open lid mode and bags the trash and refills the bag. It talks to me like a robot. Super awesome. Also freaks out the cat, which is always amusing. The sensor also works consistently, unlike our SH can in the kitchen. Also like that is rechargeable and I don't have to recharge it often; I recharge it a few times a year. This trash can is just cool - I LOVE IT! ❤️ Smart people designed it.”                |  The product’s sensors should work consistently.  The product should be power efficient.  The product should last for as long as possible. | 
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -118,7 +119,7 @@ Charge 7 hours, use for 90-180 days
 Also a new option for buying diaper pails
 
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -127,7 +128,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Love it! I purchased this for my 83 year old mom to use in her bathroom. She loves it!” | Good for older customers. |
 | “I purchased the trashcan for my bathroom. I admit that the purchase is a bit frivolous. Spending that much money on a trash can for the bathroom is a bit crazy...BUT, money aside, I really do love it. I love that it seals up the bag so quickly and well. I love how the bag opens up and fills the bin without the puffs of air that can typically get trapped between the bag and bin. We've had it for a few weeks now and typically have a full can every week. It's still on the same charge and same bag container provided. A bit pricy, but I think it was worth it.”                |  Not a complete necessity.  Function effectively.  Without air trapping.  Pricey |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -144,7 +145,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 * Vendor: Amazon
 * Description: Automatic Trash Bag Adsorption This bathroom trash can automatic touchless features an innovative automatic trash bag adsorption design. It makes bagging time - saving and labor - saving, ensuring the trash bag fits neatly and smoothly against the bucket wall. With the same size, the capacity is doubled, reducing the trouble of frequent garbage bag replacement and bringing more convenience to your life.
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -152,7 +153,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Works great. Too soon to tell on battery life but so far, so good. Trash bags are a little tricky to put in but gets easier with practice. The air sucking the trash bag open in the can is really neat and works really well - just be careful not to get the trash bag over the opening when installing a new trash bag.” | Product should be able to hold more content.  Installing new trash bags is tricky. |
 | “Lid opens good, motion detection very easy to use you just put batteries in, and it automatically opens the trash bag up once you put it inside, the only thing is that it is a bit small but it’s nice and compact”                |  The products lid works as intended.  Motion sensors are easy to use |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -169,7 +170,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 * Vendor: Walmart
 * Description: Nine Stars Motion Sensor Automatic Trash Can, 21 Gallon Stainless Steel, Motion Sensor Hands-Free Soft-Close Lid Garbage Bin, Silver
 
-## POSITIVE COMMENTS
+# POSITIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -178,7 +179,7 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 | “Have had it for 2 days, a pleasure to use every time. The height is great, nice capacity, without even filling fully. And- hands free is the best, with food anything in your hands. I see it as a little pricey, but a good %26 practical investment. Probably helps with pet issues, my dog is very small- but could tip the 21 gallon garbage can if able to grab of the bag.”                |  The product should be made at a comfortable height.  The product should be able to be hands-free.  The product should be safe from pets.  The product should be safe for animals or children that are around it. |
 | “This is a great addition to my steel appliances in my kitchen ! It was marked at a great price for the holiday shopping and does wonders with a full bin for trash. Less trips to my garbage can outside lol - The top is an automatic open but it doesn’t open full everytime - however I’m happy with it. It takes 3 D batteries in the top cover of the can to operate the functions open/close. There are two buttons that also do the same functions on the can liner cover.”               | The product should be able to handle full or overfull capacity.  The product should have a way to bypass a malfunctioning sensor.  The product should be able to be conveniently repowered. |
 
-## NEGATIVE COMMENTS
+# NEGATIVE COMMENTS
 
 | **Voice of the Customer**        |**Restated Customer Need** |
 | ---------------------- | -----------------------|
@@ -188,106 +189,107 @@ Sure it opens automatically like other trash cans. But it also seals the trash b
 
 ## List of 100 total needs statements
 
-1. The product is easy to recharge – Explicit
-2. The product uses D Batteries – Explicit
-3. Product is not damaged – Explicit
-4. Product is sturdy – Explicit
-5. Product is aesthetically pleasing – Latent
-6. Product is automatic – Explicit
-7. Product does not take up much space – Explicit
-8. Product deodorizes itself – Explicit
-9. Product should have a long lifespan, up to 10 years – Explicit
-10. Product should minimize manual steps – Latent
-11. Product should allow easy replacement of contents – Explicit
-12. Product should last longer than a few months – Explicit
-13. Product should not stain easily – Explicit
-14. The product’s sensors should only go off when desired – Explicit
-15. Product should have intuitive design – Latent
-16. The product should be clear in its sizing – Latent
-17. The product should be easy to assemble for the customer – Explicit
-18. The product should not be too small to be used – Latent
-19. The product should be able to easily be powered – Latent
-20. The product should be battery operated or plug into a power source – Explicit
-21. The product should be affordable – Latent
-22. The product is too small – Explicit
-23. The product has low capacity – Explicit
-24. Good for bathroom use – Latent
-25. Good in pairs – Latent
-26. Good desk product – Latent
-27. The top doesn’t fit well together – Explicit
-28. The trash can is flimsy – Explicit
-29. Should not warp – Explicit
-30. Small, flimsy and bendable – Explicit
-31. The product should be sleek – Latent
-32. The product should automatically do as many tasks as possible – Latent
-33. The product’s opening should be wide – Explicit
-34. The product should be priced as low as possible – Latent
-35. The product should have a long battery life – Explicit
-36. The product should allow the user to correct basic mistakes – Latent
-37. The product should provide illumination – Explicit
-38. The product’s sensors should be sensitive enough to properly detect what they are looking for – Explicit
-39. The product’s sensors should work consistently – Explicit
-40. The product should be power efficient – Latent
-41. The product should last for as long as possible – Latent
-42. The product should be able to ship without damage – Explicit
-43. The product should be able to perform its functions reliably – Explicit
-44. The product should be sized properly for its function – Latent
-45. The sensors for the product should function reliably – Explicit
-46. The product should promptly respond to the user – Latent
-47. The product should have its mechanisms work reliably – Explicit
-48. The product should not have flimsy components – Latent
-49. The product should have easily replaceable and cheap internals, if they need to be replaced at all – Latent
-50. This product's function is complete – Explicit
-51. Both battery and wired power – Explicit
-52. Could be taller – Latent
-53. Good for older customers – Latent
-54. Not a complete necessity – Latent
-55. Function effectively – Explicit
-56. Without air trapping – Latent
-57. Pricey – Explicit
-58. Is loud somewhere in the process – Explicit
-59. Not charging – Explicit
-60. Not sealing or opening all the way – Explicit
-61. Not an obvious fix – Latent
-62. Not working but halfway functional – Explicit
-63. Product is small – Explicit
-64. Product has a motion sensor – Explicit
-65. Sensor is too sensitive – Explicit
-66. Product should be able to hold more content – Explicit
-67. Installing new trash bags is tricky – Explicit
-68. The product's lid works as intended – Explicit
-69. Motion sensors are easy to use and have no problems – Explicit
-70. The product is small – Explicit
-71. The product does not receive power – Explicit
-72. The product is good enough to buy a second – Latent
-73. The product’s hinge/servomotor does not work properly – Explicit
-74. The product’s durability was way less than what’s anticipated – Explicit
-75. The product is not worth the price – Latent
-76. Flimsy build and plastic pieces – Explicit
-77. Noise – Explicit
-78. The product doesn’t open – Explicit
-79. Lid mechanisms should be smooth – Latent
-80. Odor leaks when lid is open – Explicit
-81. Bags should be easily removed and replaced – Explicit
-82. The product should appear modern – Latent
-83. The product should have a manual backup – Explicit
-84. The product should use convenient and cheap methods of powering itself – Latent
-85. The product should reliably move through its full range of motion – Explicit
-86. The product should be able to easily be repaired or have parts replaced – Latent
-87. The product should be easy to troubleshoot – Latent
-88. The product should not require strong technical knowledge to use – Latent
-89. The product should be made at a comfortable height – Latent
-90. The product should be able to be hands-free – Explicit
-91. The product should be safe from pets – Latent
-92. The product should be safe for animals or children that are around it – Latent
-93. The product should have a way to bypass a malfunctioning sensor – Latent
-94. The product should be able to handle full or overfull capacity – Latent
-95. The product should work reliably for a long time – Explicit
-96. The product should be able to be conveniently repowered – Latent
-97. The product should be able to be fixed easily – Latent
-98. The product should be as cheap as possible – Latent
-99. The product should be tested and have common issues fixed before shipping – Latent
-100. The documentation for the product should be thorough – Explicit
+1. The product is easy to recharge – E
+2. The product uses D Batteries – E
+3. Product is not damaged – E
+4. Product is sturdy – E
+5. Product is aesthetically pleasing – L
+6. Product is automatic – E
+7. Product does not take up much space – E
+8. Product deodorizes itself – E
+9. Product should have a long lifespan, up to 10 years – E
+10. Product should minimize manual steps – L
+11. Product should allow easy replacement of contents – E
+12. Product should last longer than a few months – E
+13. Product should not stain easily – E
+14. The product’s sensors should only go off when desired – E
+15. Product should have intuitive design – L
+16. The product should be clear in its sizing – L
+17. The product should be easy to assemble for the customer – E
+18. The product should not be too small to be used – L
+19. The product should be able to easily be powered – L
+20. The product should be battery operated or plug into a power source – E
+21. The product should be affordable – L
+22. The product could benefit from a larger overall size – E
+23. The product has limited storage or holding capacity – E
+24. Good for bathroom use – L
+25. Good in pairs – L
+26. Good desk product – L
+27. The top doesn’t fit well together – E
+28. The trash can is flimsy – E
+29. Should not warp – E
+30. Small, bendable construction reduces durability – E
+31. The product should be sleek – L
+32. The product should automatically perform as many functions as possible – L
+33. The product’s opening should be wide – E
+34. The product should be priced competitively low – L
+35. The product should have a long battery life – E
+36. The product should let users recover from simple mistakes – L
+37. The product should provide illumination – E
+38. The product’s sensors should accurately detect intended triggers – E
+39. The product’s sensors should work consistently – E
+40. The product should be energy efficient – L
+41. The product should remain functional over extended use – L
+42. The product should be able to ship without damage – E
+43. The product should reliably perform its intended functions – E
+44. The product should be appropriately sized for its purpose – L
+45. The sensors for the product should function reliably – E
+46. The product should respond quickly to user interaction – L
+47. The product’s internal mechanisms should operate dependably – E
+48. The product components should be solid and durable – L
+49. The product should have low-cost, easily replaceable internal parts – L
+50. This product's function is complete – E
+51. Both battery and wired power – E
+52. The product height could be increased for convenience – L
+53. Product design should accommodate older customers – L
+54. Not a complete necessity – L
+55. Function effectively – E
+56. Should avoid trapping air inside – L
+57. Pricey – E
+58. Produces noticeable noise during operation – E
+59. Fails to charge properly – E
+60. Lid does not fully open or seal – E
+61. Not an obvious fix – L
+62. Product is partially functional but not fully working – E
+63. Product is compact in size – E
+64. Product has a motion sensor – E
+65. Sensor is overly sensitive – E
+66. Product should be able to hold a greater volume – E
+67. Installing new trash bags is tricky – E
+68. The product's lid operates correctly – E
+69. Motion sensors are simple to use and function properly – E
+70. The product’s small dimensions limit its practicality – E
+71. The product fails to receive electrical power – E
+72. The product quality encourages repeat purchases – L
+73. The product’s hinge or motor fails to move properly – E
+74. The product’s durability is below expectations – E
+75. The product does not justify its price – L
+76. Weak build quality with flexible plastic pieces – E
+77. Excessive operational noise – E
+78. The lid fails to open – E
+79. Lid should move smoothly without resistance – L
+80. Odor escapes when lid is open – E
+81. Bags should be simple to remove and replace – E
+82. The product should have a modern and refined look – L
+83. The product should include a manual override option – E
+84. The product should use affordable and accessible power options – L
+85. The product should smoothly complete its full motion range – E
+86. The product should allow simple part replacement or repair – L
+87. The product should be straightforward to troubleshoot – L
+88. The product should not require technical expertise to operate – L
+89. The product should have an ergonomic height for use – L
+90. The product should support hands-free operation – E
+91. The product should be resistant to pet interference – L
+92. The product should be safe for both animals and children nearby – L
+93. The product should provide a manual override for faulty sensors – L
+94. The product should operate reliably even when nearly full – L
+95. The product should remain dependable over long-term use – E
+96. The product should allow for convenient recharging or repowering – L
+97. The product should be repairable without professional tools – L
+98. The product should be as budget-friendly as possible – L
+99. The product should undergo testing to resolve issues before release – L
+100. The documentation for the product should be thorough – E
+
 
 ## Ranking
 ![304 User needs](https://github.com/user-attachments/assets/639c2708-4865-46d2-bf38-29d32449ab48)

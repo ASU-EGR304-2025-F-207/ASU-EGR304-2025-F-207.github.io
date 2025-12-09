@@ -1,5 +1,12 @@
+# Design Ideation
+
 ### Feature Priorities
 ###
+
+Summary: 
+    Our team brainstormed 100 features and 3 possible final products. From those final products, we determined that a trash can should automatically open and inform the user of its current level of fullness. Our team took these ideas from idea Trash Can One and added a IR Sensor instead of the Lid light and removed the less needed features (Air Freshener Compartment and Rubber Feet).   
+
+
 
 Below is a table about our project's possible features. After naming 100 features, we ranked them on a scale of 1-10 of how high of a priority each feature is to us with 10 being our highest priorities and 1 being the lowest of our priorities.
 
@@ -331,6 +338,8 @@ Prepares the next bag automatically
 
 <img width="2903" height="1640" alt="Trashcan3" src="https://github.com/user-attachments/assets/dd99d09d-7e6f-4766-8504-d7966c34ebd6" />
 
+
+[Vector Drawings](https://github.com/user-attachments/files/24028985/svg_304.zip)
 
 
 
