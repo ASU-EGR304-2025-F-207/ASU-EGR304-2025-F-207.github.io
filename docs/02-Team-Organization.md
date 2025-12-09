@@ -14,4 +14,4 @@ Our team is an aspiring group of student engineers committed to learning and app
 Our smart trash can provides a safe and sanitary convenience for busy individuals, families, and businesses by automatically opening, detecting when it is full, and alerting the buyer when it’s time to take out the trash.
 
 ## Team Organization
-The team's organizational structure can be located in detail in the [appendix](https://asu-egr304-2025-f-207.github.io/Appendix/App-Team-Org/)
+The team's organizational structure can be located in detail in the [Appendix](https://asu-egr304-2025-f-207.github.io/Appendix/App-Team-Org/).
