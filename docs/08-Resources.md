@@ -8,3 +8,4 @@
   
 ## Additional files
 
+[Vector Drawings zip](https://github.com/user-attachments/files/24048203/svg_304.zip)
