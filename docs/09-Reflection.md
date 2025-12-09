@@ -7,7 +7,10 @@
 A todo esto se debe agregar la complejidad del software necesario para esta clase. El software utilizado en esta clase es sencillo de usar pero la opinión popular suele ser compleja para nuevos ingresos o nuevos con dichos softwares y requiere de tiempo y trabajo para familiarizarse con dichos. Al diseñar el producto inicial se es necesario no solo tomar en cuenta la que se desea crear si no también la dificultad que conlleva dicho  proyecto y consciencia de las capacidades individuales y colectivas de cada miembro del grupo. En nuestro caso buscamos algo que se considerara sencillo de realizar pero que aún mantuviera un buen nivel de reto para nosotros. Ser consciente de las capacidades de uno mismo  es muy importante. Pues clases como esta no son lo único que existe en el mundo, posee una vida social, personal y en casos laborar que se necesita balancear junto con la académica. Y se necesita ser capaz de mantener un equilibrio para poder desempeñarse de la mejor manera posible..
 
    
-## Recommendations for future students
+## Recommendations for Future Students
 
-1. 
-
+1. Dedicate 1 to 2 hours before each lab to review the course material and get ahead in the learning process to perform more efficiently.
+2. Maintaining effective communication with teammates is crucial for good performance.
+3. The goal should be to work ahead. Aiming to be one lab ahead or have half of it completed before class guarantees a high chance of success.
+4. The software is difficult to learn; dedicating time to understanding and practicing it is crucial.
+5. Office classes are highly recommended for this course, rather than one-on-one sessions with the professor. Office hours are a space outside of class for you to continue working with the professor, who is available should any questions arise.
