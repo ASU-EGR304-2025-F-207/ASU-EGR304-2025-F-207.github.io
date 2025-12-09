@@ -9,7 +9,7 @@
       
       
       
-        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304TeamTemplate/07-Software%20Proposal%20copy%202/">
+        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304TeamTemplate/07-Software%20Design/">
       
       
         <link rel="prev" href="../06-team-block-diagram/">
@@ -25,7 +25,7 @@
 
     
       
-        <title>Software Proposal - EGR 304 Team 207 Report</title>
+        <title>Software Design - EGR 304 Team 207 Report</title>
       
     
     
@@ -95,7 +95,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#software-proposal" class="md-skip">
+        <a href="#software-design" class="md-skip">
           Skip to content
         </a>
       
@@ -130,7 +130,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Software Proposal
+              Software Design
             
           </span>
         </div>
@@ -314,7 +314,7 @@
   
     
   
-  Software Proposal
+  Software Design
 
       </a>
     </li>
@@ -565,7 +565,7 @@
         
   
   <span class="md-ellipsis">
-    Software Proposal
+    Software Design
   </span>
   
 
@@ -698,7 +698,7 @@
                   
 
   
-    <a href="https://github.com/embedded-systems-design/EGR304TeamTemplate/edit/main/docs/07-Software Proposal copy 2.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/embedded-systems-design/EGR304TeamTemplate/edit/main/docs/07-Software Design.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"></path></svg>
     </a>
@@ -706,9 +706,11 @@
   
 
 
-<h1 id="software-proposal">Software Proposal</h1>
+<h1 id="software-design">Software Design</h1>
 <p>This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic. The logic was decided upon during the initial formation of the idea, and simply elaborated upon for the formal software proposal. The two different logic branches reflect the two seperate subsystems that our design contains, allowing both to run simultaneously, without interrupting the other.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/image/Untitled%20diagram-2025-10-25-024357.svg" data-desc-position="bottom"><img alt="Activity Diagram" src="https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/image/Untitled%20diagram-2025-10-25-024357.svg"></a></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/Untitled%20diagram-2025-12-09-042512.png" data-desc-position="bottom"><img alt="Activity Diagram" src="https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/Untitled%20diagram-2025-12-09-042512.png"></a></p>
+<p>Potential for improvement:</p>
+<p>If this software were to undergo improvements, there are multiple avenues to stremaline the sfotware process. One primary change would be to connect the motion and distance susbsystem to all three other microcontrollers, and eliminate the connection between The LED scale and force sensor subsystem and the speaker subsystem. This was initially done because the team had already set up the connections, but were told that we had to change our subsystems in order to fulfill class requirements. This led to the inefficient connection, which should be removed if there was another opportunity to connect to update the design. In addition, the exact weight metrics should be ironed out in order to be able to accomidate multiple different bag strengths, and accurately identify them using the force sensor. Another change would be to the logic of the speaker. Ideally, the speaker should serve as a reminder that the trash is full and the bag needs to be replaced, however, the current set up only has the speaker go off once when the trash can is full. Ideally, a different timer would be added to the speaker to go off once every few minutes, or a few times an hour, in order to serve as a more persistent reminder to the consumer, rather than a single warning.</p>
 
 
 
