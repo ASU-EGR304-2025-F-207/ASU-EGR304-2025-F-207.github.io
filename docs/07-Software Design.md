@@ -1,6 +1,6 @@
 # Software Design
 
-This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic. The logic was decided upon during the initial formation of the idea, and simply elaborated upon for the formal software proposal. The two different logic branches reflect the two seperate subsystems that our design contains, allowing both to run simultaneously, without interrupting the other.
+This activity diagram illustrates the software workflow for the motion sensor, weight sensor, distance sensor, and motor/LED control logic. The logic was decided upon during the initial formation of the idea, and simply elaborated upon for the formal software proposal. The main loop, on the left side, represents the overall flow of the project, cycling the sensors and actuators. The details of each microcontroller (MCU) are elaborated on the right. The microcontroller subsystems appear in the order they are shown on the diagram, and are numbered in the order they appear on the block diagram. The software meets the product requirements by connecting all the team's microcontrollers together, and by enabling the proper sensing and actuating on each member's subsystem.
 
 ![Activity Diagram](https://github.com/ASU-EGR304-2025-F-207/ASU-EGR304-2025-F-207.github.io/raw/main/docs/Untitled%20diagram-2025-12-09-042512.png)
 
